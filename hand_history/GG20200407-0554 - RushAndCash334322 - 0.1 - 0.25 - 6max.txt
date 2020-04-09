@@ -1,0 +1,72 @@
+Poker Hand #RC94903242: Hold'em No Limit ($0.1/$0.25) - 2020/04/07 05:54:32
+Table 'RushAndCash334322' 6-max Seat #1 is the button
+Seat 1: 6d933289 ($31.14 in chips)
+Seat 2: fc8a29ea ($26.16 in chips)
+Seat 3: Hero ($25 in chips)
+Seat 4: e92a1e93 ($29.31 in chips)
+Seat 5: a397f75 ($25 in chips)
+Seat 6: c3229f4a ($31.73 in chips)
+fc8a29ea: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 6d933289 
+Dealt to fc8a29ea 
+Dealt to Hero [Kh 3d]
+Dealt to e92a1e93 
+Dealt to a397f75 
+Dealt to c3229f4a 
+e92a1e93: raises $0.5 to $0.75
+a397f75: folds
+c3229f4a: folds
+6d933289: folds
+fc8a29ea: folds
+Hero: folds
+Uncalled bet ($0.5) returned to e92a1e93
+*** SHOWDOWN ***
+e92a1e93 collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: 6d933289 (button) folded before Flop (didn't bet)
+Seat 2: fc8a29ea (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: e92a1e93 collected ($0.6)
+Seat 5: a397f75 folded before Flop (didn't bet)
+Seat 6: c3229f4a folded before Flop (didn't bet)
+
+
+Poker Hand #RC94903265: Hold'em No Limit ($0.1/$0.25) - 2020/04/07 05:54:38
+Table 'RushAndCash334326' 6-max Seat #1 is the button
+Seat 1: ac98986f ($25.1 in chips)
+Seat 2: Hero ($25 in chips)
+Seat 3: 2be73c8d ($58.81 in chips)
+Seat 4: 1d533b5f ($27.65 in chips)
+Seat 5: d54bb6c ($25.35 in chips)
+Seat 6: c9b5e3b4 ($25 in chips)
+Hero: posts small blind $0.1
+2be73c8d: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to ac98986f 
+Dealt to Hero [Kd Jd]
+Dealt to 2be73c8d 
+Dealt to 1d533b5f 
+Dealt to d54bb6c 
+Dealt to c9b5e3b4 
+1d533b5f: folds
+d54bb6c: folds
+c9b5e3b4: folds
+ac98986f: folds
+Hero: raises $0.5 to $0.75
+2be73c8d: folds
+Uncalled bet ($0.5) returned to Hero
+*** SHOWDOWN ***
+Hero collected $0.5 from pot
+*** SUMMARY ***
+Total pot $0.5
+Seat 1: ac98986f (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) collected ($0.5)
+Seat 3: 2be73c8d (big blind) folded before Flop
+Seat 4: 1d533b5f folded before Flop (didn't bet)
+Seat 5: d54bb6c folded before Flop (didn't bet)
+Seat 6: c9b5e3b4 folded before Flop (didn't bet)
+
+

@@ -1,0 +1,36 @@
+Poker Hand #RC92483143: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 12:18:35
+Table 'RushAndCash10588' 6-max Seat #1 is the button
+Seat 1: def20f29 ($25.25 in chips)
+Seat 2: ea578b8b ($24.13 in chips)
+Seat 3: Hero ($25 in chips)
+Seat 4: 434c2239 ($40.66 in chips)
+Seat 5: 4f109c2c ($31.13 in chips)
+Seat 6: 69a31bcd ($73.76 in chips)
+ea578b8b: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to def20f29 
+Dealt to ea578b8b 
+Dealt to Hero [4s 3s]
+Dealt to 434c2239 
+Dealt to 4f109c2c 
+Dealt to 69a31bcd 
+434c2239: folds
+4f109c2c: raises $0.5 to $0.75
+69a31bcd: folds
+def20f29: folds
+ea578b8b: folds
+Hero: folds
+Uncalled bet ($0.5) returned to 4f109c2c
+*** SHOWDOWN ***
+4f109c2c collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: def20f29 (button) folded before Flop (didn't bet)
+Seat 2: ea578b8b (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: 434c2239 folded before Flop (didn't bet)
+Seat 5: 4f109c2c collected ($0.6)
+Seat 6: 69a31bcd folded before Flop (didn't bet)
+
+

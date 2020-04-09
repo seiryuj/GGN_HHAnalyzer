@@ -1,0 +1,4396 @@
+Poker Hand #RC92426218: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:04:24
+Table 'RushAndCash5410' 6-max Seat #1 is the button
+Seat 1: 18c7c4e2 ($27.57 in chips)
+Seat 2: 8a7c3bbc ($49.47 in chips)
+Seat 3: Hero ($25 in chips)
+Seat 4: 68ad306d ($35.89 in chips)
+Seat 5: bde77059 ($48.93 in chips)
+Seat 6: 8565d9b9 ($30.29 in chips)
+8a7c3bbc: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 18c7c4e2 
+Dealt to 8a7c3bbc 
+Dealt to Hero [Ad 5s]
+Dealt to 68ad306d 
+Dealt to bde77059 
+Dealt to 8565d9b9 
+68ad306d: raises $0.38 to $0.63
+bde77059: folds
+8565d9b9: folds
+18c7c4e2: folds
+8a7c3bbc: folds
+Hero: folds
+Uncalled bet ($0.38) returned to 68ad306d
+*** SHOWDOWN ***
+68ad306d collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: 18c7c4e2 (button) folded before Flop (didn't bet)
+Seat 2: 8a7c3bbc (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: 68ad306d collected ($0.6)
+Seat 5: bde77059 folded before Flop (didn't bet)
+Seat 6: 8565d9b9 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92426274: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:04:32
+Table 'RushAndCash5417' 6-max Seat #1 is the button
+Seat 1: cea3ade1 ($82.69 in chips)
+Seat 2: Hero ($25 in chips)
+Seat 3: fe73124e ($28.54 in chips)
+Seat 4: 6c0f2d78 ($38.15 in chips)
+Seat 5: 4832cd4a ($43.37 in chips)
+Seat 6: bdedee74 ($25 in chips)
+Hero: posts small blind $0.1
+fe73124e: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to cea3ade1 
+Dealt to Hero [7d 7c]
+Dealt to fe73124e 
+Dealt to 6c0f2d78 
+Dealt to 4832cd4a 
+Dealt to bdedee74 
+6c0f2d78: folds
+4832cd4a: folds
+bdedee74: raises $0.38 to $0.63
+cea3ade1: folds
+Hero: calls $0.53
+fe73124e: folds
+*** FLOP *** [Kd Js Jh]
+Hero: checks
+bdedee74: bets $0.5
+Hero: calls $0.5
+*** TURN *** [Kd Js Jh] [5c]
+Hero: checks
+bdedee74: checks
+*** RIVER *** [Kd Js Jh 5c] [Qh]
+Hero: checks
+bdedee74: checks
+Hero: shows [7d 7c] (Pair of Jacks and Pair of Sevens)
+bdedee74: shows [Qs Ah] (Pair of Queens and Pair of Jacks)
+*** SHOWDOWN ***
+bdedee74 collected $2.51 from pot
+*** SUMMARY ***
+Total pot $2.51
+Board [Kd Js Jh 5c Qh]
+Seat 1: cea3ade1 (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) showed [7d 7c] and lost with Pair of Jacks and Pair of Sevens
+Seat 3: fe73124e (big blind) folded before Flop
+Seat 4: 6c0f2d78 folded before Flop (didn't bet)
+Seat 5: 4832cd4a folded before Flop (didn't bet)
+Seat 6: bdedee74 showed [Ah Qs] and won ($2.51) with Pair of Queens and Pair of Jacks
+
+
+Poker Hand #RC92426638: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:05:28
+Table 'RushAndCash5451' 6-max Seat #1 is the button
+Seat 1: Hero ($25 in chips)
+Seat 2: f1a461d7 ($26.12 in chips)
+Seat 3: af8ae04d ($25.81 in chips)
+Seat 4: 6c0f2d78 ($37.17 in chips)
+Seat 5: bdedee74 ($26.26 in chips)
+Seat 6: 1b498ea1 ($58.44 in chips)
+f1a461d7: posts small blind $0.1
+af8ae04d: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Qd 8h]
+Dealt to f1a461d7 
+Dealt to af8ae04d 
+Dealt to 6c0f2d78 
+Dealt to bdedee74 
+Dealt to 1b498ea1 
+6c0f2d78: folds
+bdedee74: folds
+1b498ea1: folds
+Hero: folds
+f1a461d7: raises $0.5 to $0.75
+af8ae04d: calls $0.5
+*** FLOP *** [4c 6d Jh]
+f1a461d7: bets $0.62
+af8ae04d: folds
+Uncalled bet ($0.62) returned to f1a461d7
+*** SHOWDOWN ***
+f1a461d7 collected $1.5 from pot
+*** SUMMARY ***
+Total pot $1.5
+Board [4c 6d Jh]
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: f1a461d7 (small blind) won ($1.5)
+Seat 3: af8ae04d (big blind) folded on the Flop
+Seat 4: 6c0f2d78 folded before Flop (didn't bet)
+Seat 5: bdedee74 folded before Flop (didn't bet)
+Seat 6: 1b498ea1 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92426669: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:05:32
+Table 'RushAndCash5453' 6-max Seat #1 is the button
+Seat 1: c0ba6274 ($27.9 in chips)
+Seat 2: eda4b4e3 ($67.86 in chips)
+Seat 3: 127991ad ($25.9 in chips)
+Seat 4: f262e92f ($25.35 in chips)
+Seat 5: 6f274c59 ($27.78 in chips)
+Seat 6: Hero ($25 in chips)
+eda4b4e3: posts small blind $0.1
+127991ad: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to c0ba6274 
+Dealt to eda4b4e3 
+Dealt to 127991ad 
+Dealt to f262e92f 
+Dealt to 6f274c59 
+Dealt to Hero [Jc 6s]
+f262e92f: folds
+6f274c59: folds
+Hero: folds
+c0ba6274: folds
+eda4b4e3: raises $0.5 to $0.75
+127991ad: calls $0.5
+*** FLOP *** [7s 9d Qs]
+eda4b4e3: checks
+127991ad: bets $0.8
+eda4b4e3: calls $0.8
+*** TURN *** [7s 9d Qs] [Kd]
+eda4b4e3: checks
+127991ad: bets $2.4
+eda4b4e3: folds
+Uncalled bet ($2.4) returned to 127991ad
+*** SHOWDOWN ***
+127991ad collected $3.1 from pot
+*** SUMMARY ***
+Total pot $3.1
+Board [7s 9d Qs Kd]
+Seat 1: c0ba6274 (button) folded before Flop (didn't bet)
+Seat 2: eda4b4e3 (small blind) folded on the Turn
+Seat 3: 127991ad (big blind) won ($3.1)
+Seat 4: f262e92f folded before Flop (didn't bet)
+Seat 5: 6f274c59 folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+Poker Hand #RC92426695: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:05:36
+Table 'RushAndCash5456' 6-max Seat #1 is the button
+Seat 1: 65743f16 ($30.02 in chips)
+Seat 2: 6f274c59 ($27.78 in chips)
+Seat 3: bdedee74 ($26.26 in chips)
+Seat 4: 1aadd4c5 ($25 in chips)
+Seat 5: Hero ($25 in chips)
+Seat 6: d88dd0db ($33 in chips)
+6f274c59: posts small blind $0.1
+bdedee74: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 65743f16 
+Dealt to 6f274c59 
+Dealt to bdedee74 
+Dealt to 1aadd4c5 
+Dealt to Hero [Qc 6c]
+Dealt to d88dd0db 
+1aadd4c5: folds
+Hero: folds
+d88dd0db: folds
+65743f16: raises $0.38 to $0.63
+6f274c59: raises $1.57 to $2.2
+bdedee74: folds
+65743f16: folds
+Uncalled bet ($1.57) returned to 6f274c59
+*** SHOWDOWN ***
+6f274c59 collected $1.51 from pot
+*** SUMMARY ***
+Total pot $1.51
+Seat 1: 65743f16 (button) folded before Flop
+Seat 2: 6f274c59 (small blind) collected ($1.51)
+Seat 3: bdedee74 (big blind) folded before Flop
+Seat 4: 1aadd4c5 folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: d88dd0db folded before Flop (didn't bet)
+
+
+Poker Hand #RC92426726: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:05:41
+Table 'RushAndCash5458' 6-max Seat #1 is the button
+Seat 1: 6c0f2d78 ($37.17 in chips)
+Seat 2: 8b7a5e3a ($28.73 in chips)
+Seat 3: 485c3fa2 ($32.34 in chips)
+Seat 4: Hero ($25 in chips)
+Seat 5: b9a49d77 ($45.27 in chips)
+Seat 6: c0ba6274 ($27.9 in chips)
+8b7a5e3a: posts small blind $0.1
+485c3fa2: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 6c0f2d78 
+Dealt to 8b7a5e3a 
+Dealt to 485c3fa2 
+Dealt to Hero [Kc 6s]
+Dealt to b9a49d77 
+Dealt to c0ba6274 
+Hero: folds
+b9a49d77: folds
+c0ba6274: folds
+6c0f2d78: raises $0.38 to $0.63
+8b7a5e3a: raises $2.07 to $2.7
+485c3fa2: folds
+6c0f2d78: calls $2.07
+*** FLOP *** [Kd 7h Td]
+8b7a5e3a: bets $1.9
+6c0f2d78: folds
+Uncalled bet ($1.9) returned to 8b7a5e3a
+*** SHOWDOWN ***
+8b7a5e3a collected $5.65 from pot
+*** SUMMARY ***
+Total pot $5.65
+Board [Kd 7h Td]
+Seat 1: 6c0f2d78 (button) folded on the Flop
+Seat 2: 8b7a5e3a (small blind) won ($5.65)
+Seat 3: 485c3fa2 (big blind) folded before Flop
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: b9a49d77 folded before Flop (didn't bet)
+Seat 6: c0ba6274 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92426742: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:05:44
+Table 'RushAndCash5460' 6-max Seat #1 is the button
+Seat 1: 12ffc28a ($84.53 in chips)
+Seat 2: d88dd0db ($33 in chips)
+Seat 3: 9aa38475 ($90.75 in chips)
+Seat 4: 657ea13b ($26.17 in chips)
+Seat 5: a37ca301 ($26.81 in chips)
+Seat 6: Hero ($25 in chips)
+d88dd0db: posts small blind $0.1
+9aa38475: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 12ffc28a 
+Dealt to d88dd0db 
+Dealt to 9aa38475 
+Dealt to 657ea13b 
+Dealt to a37ca301 
+Dealt to Hero [Jh Jc]
+657ea13b: folds
+a37ca301: folds
+Hero: raises $0.38 to $0.63
+12ffc28a: raises $1.26 to $1.89
+d88dd0db: folds
+9aa38475: calls $1.64
+Hero: raises $4.41 to $6.3
+12ffc28a: folds
+9aa38475: raises $84.45 to $90.75 and is all-in
+Hero: calls $18.7 and is all-in
+Uncalled bet ($65.75) returned to 9aa38475
+9aa38475: shows [Ah Kh]
+Hero: shows [Jc Jh]
+*** FLOP *** [3h 8c 6d]
+*** TURN *** [3h 8c 6d] [Js]
+*** RIVER *** [3h 8c 6d Js] [4h]
+*** SHOWDOWN ***
+Hero collected $51.99 from pot
+*** SUMMARY ***
+Total pot $51.99
+Board [3h 8c 6d Js 4h]
+Seat 1: 12ffc28a (button) folded before Flop
+Seat 2: d88dd0db (small blind) folded before Flop
+Seat 3: 9aa38475 (big blind) showed [Ah Kh] and lost with Ace-High
+Seat 4: 657ea13b folded before Flop (didn't bet)
+Seat 5: a37ca301 folded before Flop (didn't bet)
+Seat 6: Hero showed [Jh Jc] and won ($51.99) with Three Jacks
+
+
+Poker Hand #RC92427209: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:06:54
+Table 'RushAndCash5499' 6-max Seat #1 is the button
+Seat 1: 9aa38475 ($65.75 in chips)
+Seat 2: af8ae04d ($25 in chips)
+Seat 3: Hero ($50.99 in chips)
+Seat 4: 548e4b41 ($25 in chips)
+Seat 5: 8bf69330 ($25 in chips)
+Seat 6: 6c0f2d78 ($34.12 in chips)
+af8ae04d: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 9aa38475 
+Dealt to af8ae04d 
+Dealt to Hero [Qc 8h]
+Dealt to 548e4b41 
+Dealt to 8bf69330 
+Dealt to 6c0f2d78 
+548e4b41: folds
+8bf69330: folds
+6c0f2d78: raises $0.38 to $0.63
+9aa38475: raises $1.63 to $2.26
+af8ae04d: folds
+Hero: folds
+6c0f2d78: raises $4.04 to $6.3
+9aa38475: folds
+Uncalled bet ($4.04) returned to 6c0f2d78
+*** SHOWDOWN ***
+6c0f2d78 collected $4.87 from pot
+*** SUMMARY ***
+Total pot $4.87
+Seat 1: 9aa38475 (button) folded before Flop
+Seat 2: af8ae04d (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: 548e4b41 folded before Flop (didn't bet)
+Seat 5: 8bf69330 folded before Flop (didn't bet)
+Seat 6: 6c0f2d78 collected ($4.87)
+
+
+Poker Hand #RC92427243: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:06:59
+Table 'RushAndCash5503' 6-max Seat #1 is the button
+Seat 1: fc7d6eac ($49.39 in chips)
+Seat 2: Hero ($50.74 in chips)
+Seat 3: f62e1de3 ($40.22 in chips)
+Seat 4: 8cb7f957 ($34.98 in chips)
+Seat 5: eda4b4e3 ($66.31 in chips)
+Seat 6: 8bf69330 ($25 in chips)
+Hero: posts small blind $0.1
+f62e1de3: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to fc7d6eac 
+Dealt to Hero [Qd Qc]
+Dealt to f62e1de3 
+Dealt to 8cb7f957 
+Dealt to eda4b4e3 
+Dealt to 8bf69330 
+8cb7f957: raises $0.75 to $1
+eda4b4e3: raises $2.25 to $3.25
+8bf69330: folds
+fc7d6eac: folds
+Hero: raises $5.05 to $8.3
+f62e1de3: folds
+8cb7f957: folds
+eda4b4e3: folds
+Uncalled bet ($5.05) returned to Hero
+*** SHOWDOWN ***
+Hero collected $7.75 from pot
+*** SUMMARY ***
+Total pot $7.75
+Seat 1: fc7d6eac (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) collected ($7.75)
+Seat 3: f62e1de3 (big blind) folded before Flop
+Seat 4: 8cb7f957 folded before Flop
+Seat 5: eda4b4e3 folded before Flop
+Seat 6: 8bf69330 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92427526: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:07:44
+Table 'RushAndCash5521' 6-max Seat #1 is the button
+Seat 1: Hero ($54.61 in chips)
+Seat 2: 8cb7f957 ($33.98 in chips)
+Seat 3: 64725a90 ($35.98 in chips)
+Seat 4: 20adcccd ($30.1 in chips)
+Seat 5: b62a0ec ($6.79 in chips)
+Seat 6: ae861be6 ($31.77 in chips)
+8cb7f957: posts small blind $0.1
+64725a90: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Ad 3c]
+Dealt to 8cb7f957 
+Dealt to 64725a90 
+Dealt to 20adcccd 
+Dealt to b62a0ec 
+Dealt to ae861be6 
+20adcccd: folds
+b62a0ec: calls $0.25
+ae861be6: folds
+Hero: folds
+8cb7f957: raises $0.45 to $0.7
+64725a90: folds
+b62a0ec: calls $0.45
+*** FLOP *** [Tc 4d 3s]
+8cb7f957: bets $0.9
+b62a0ec: folds
+Uncalled bet ($0.9) returned to 8cb7f957
+*** SHOWDOWN ***
+8cb7f957 collected $1.65 from pot
+*** SUMMARY ***
+Total pot $1.65
+Board [Tc 4d 3s]
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: 8cb7f957 (small blind) won ($1.65)
+Seat 3: 64725a90 (big blind) folded before Flop
+Seat 4: 20adcccd folded before Flop (didn't bet)
+Seat 5: b62a0ec folded on the Flop
+Seat 6: ae861be6 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92427560: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:07:48
+Table 'RushAndCash5524' 6-max Seat #1 is the button
+Seat 1: 4832cd4a ($43.12 in chips)
+Seat 2: fcf1a3a6 ($55.09 in chips)
+Seat 3: 20adcccd ($30.1 in chips)
+Seat 4: Hero ($54.61 in chips)
+Seat 5: 66910072 ($25 in chips)
+Seat 6: e8bf5096 ($25.1 in chips)
+fcf1a3a6: posts small blind $0.1
+20adcccd: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 4832cd4a 
+Dealt to fcf1a3a6 
+Dealt to 20adcccd 
+Dealt to Hero [6d 5d]
+Dealt to 66910072 
+Dealt to e8bf5096 
+Hero: folds
+66910072: folds
+e8bf5096: folds
+4832cd4a: folds
+fcf1a3a6: folds
+Uncalled bet ($0.15) returned to 20adcccd
+*** SHOWDOWN ***
+20adcccd collected $0.2 from pot
+*** SUMMARY ***
+Total pot $0.2
+Seat 1: 4832cd4a (button) folded before Flop (didn't bet)
+Seat 2: fcf1a3a6 (small blind) folded before Flop
+Seat 3: 20adcccd (big blind) collected ($0.2)
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: 66910072 folded before Flop (didn't bet)
+Seat 6: e8bf5096 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92427607: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:07:55
+Table 'RushAndCash5527' 6-max Seat #1 is the button
+Seat 1: 66910072 ($25 in chips)
+Seat 2: 1b498ea1 ($64.1 in chips)
+Seat 3: eda4b4e3 ($62.81 in chips)
+Seat 4: 81ce9558 ($25 in chips)
+Seat 5: Hero ($54.61 in chips)
+Seat 6: ae861be6 ($31.77 in chips)
+1b498ea1: posts small blind $0.1
+eda4b4e3: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 66910072 
+Dealt to 1b498ea1 
+Dealt to eda4b4e3 
+Dealt to 81ce9558 
+Dealt to Hero [Js 7c]
+Dealt to ae861be6 
+81ce9558: folds
+Hero: folds
+ae861be6: folds
+66910072: folds
+1b498ea1: raises $0.5 to $0.75
+eda4b4e3: folds
+Uncalled bet ($0.5) returned to 1b498ea1
+*** SHOWDOWN ***
+1b498ea1 collected $0.5 from pot
+*** SUMMARY ***
+Total pot $0.5
+Seat 1: 66910072 (button) folded before Flop (didn't bet)
+Seat 2: 1b498ea1 (small blind) collected ($0.5)
+Seat 3: eda4b4e3 (big blind) folded before Flop
+Seat 4: 81ce9558 folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: ae861be6 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92427631: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:07:58
+Table 'RushAndCash5528' 6-max Seat #1 is the button
+Seat 1: 378f4a5c ($27.39 in chips)
+Seat 2: e8bf5096 ($25.1 in chips)
+Seat 3: 8b7a5e3a ($31.87 in chips)
+Seat 4: 8565d9b9 ($33.76 in chips)
+Seat 5: 6f274c59 ($27.71 in chips)
+Seat 6: Hero ($54.61 in chips)
+e8bf5096: posts small blind $0.1
+8b7a5e3a: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 378f4a5c 
+Dealt to e8bf5096 
+Dealt to 8b7a5e3a 
+Dealt to 8565d9b9 
+Dealt to 6f274c59 
+Dealt to Hero [Qs 5c]
+8565d9b9: folds
+6f274c59: folds
+Hero: folds
+378f4a5c: folds
+e8bf5096: raises $0.5 to $0.75
+8b7a5e3a: folds
+Uncalled bet ($0.5) returned to e8bf5096
+*** SHOWDOWN ***
+e8bf5096 collected $0.5 from pot
+*** SUMMARY ***
+Total pot $0.5
+Seat 1: 378f4a5c (button) folded before Flop (didn't bet)
+Seat 2: e8bf5096 (small blind) collected ($0.5)
+Seat 3: 8b7a5e3a (big blind) folded before Flop
+Seat 4: 8565d9b9 folded before Flop (didn't bet)
+Seat 5: 6f274c59 folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+Poker Hand #RC92427657: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:08:03
+Table 'RushAndCash5530' 6-max Seat #1 is the button
+Seat 1: dd20f9bc ($35.92 in chips)
+Seat 2: cda2e571 ($46.11 in chips)
+Seat 3: Hero ($54.61 in chips)
+Seat 4: 6f274c59 ($27.71 in chips)
+Seat 5: eda4b4e3 ($62.56 in chips)
+Seat 6: fcf1a3a6 ($54.99 in chips)
+cda2e571: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to dd20f9bc 
+Dealt to cda2e571 
+Dealt to Hero [7h 3d]
+Dealt to 6f274c59 
+Dealt to eda4b4e3 
+Dealt to fcf1a3a6 
+6f274c59: raises $0.38 to $0.63
+eda4b4e3: folds
+fcf1a3a6: folds
+dd20f9bc: folds
+cda2e571: folds
+Hero: folds
+Uncalled bet ($0.38) returned to 6f274c59
+*** SHOWDOWN ***
+6f274c59 collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: dd20f9bc (button) folded before Flop (didn't bet)
+Seat 2: cda2e571 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: 6f274c59 collected ($0.6)
+Seat 5: eda4b4e3 folded before Flop (didn't bet)
+Seat 6: fcf1a3a6 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92427691: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:08:08
+Table 'RushAndCash5532' 6-max Seat #1 is the button
+Seat 1: a37ca301 ($31.1 in chips)
+Seat 2: Hero ($54.36 in chips)
+Seat 3: f62e1de3 ($39.87 in chips)
+Seat 4: 8b7a5e3a ($31.62 in chips)
+Seat 5: 12ffc28a ($82.14 in chips)
+Seat 6: ae861be6 ($31.77 in chips)
+Hero: posts small blind $0.1
+f62e1de3: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to a37ca301 
+Dealt to Hero [Qh 5d]
+Dealt to f62e1de3 
+Dealt to 8b7a5e3a 
+Dealt to 12ffc28a 
+Dealt to ae861be6 
+8b7a5e3a: raises $0.38 to $0.63
+12ffc28a: folds
+ae861be6: folds
+a37ca301: folds
+Hero: folds
+f62e1de3: folds
+Uncalled bet ($0.38) returned to 8b7a5e3a
+*** SHOWDOWN ***
+8b7a5e3a collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: a37ca301 (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: f62e1de3 (big blind) folded before Flop
+Seat 4: 8b7a5e3a collected ($0.6)
+Seat 5: 12ffc28a folded before Flop (didn't bet)
+Seat 6: ae861be6 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92427736: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:08:16
+Table 'RushAndCash5537' 6-max Seat #1 is the button
+Seat 1: Hero ($54.26 in chips)
+Seat 2: 66910072 ($25 in chips)
+Seat 3: 81ce9558 ($25 in chips)
+Seat 4: cda2e571 ($46.01 in chips)
+Seat 5: eda4b4e3 ($62.56 in chips)
+Seat 6: bc251a6e ($69.32 in chips)
+66910072: posts small blind $0.1
+81ce9558: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Kc 5s]
+Dealt to 66910072 
+Dealt to 81ce9558 
+Dealt to cda2e571 
+Dealt to eda4b4e3 
+Dealt to bc251a6e 
+cda2e571: folds
+eda4b4e3: folds
+bc251a6e: folds
+Hero: folds
+66910072: raises $0.5 to $0.75
+81ce9558: raises $1.55 to $2.3
+66910072: folds
+Uncalled bet ($1.55) returned to 81ce9558
+*** SHOWDOWN ***
+81ce9558 collected $1.5 from pot
+*** SUMMARY ***
+Total pot $1.5
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: 66910072 (small blind) folded before Flop
+Seat 3: 81ce9558 (big blind) collected ($1.5)
+Seat 4: cda2e571 folded before Flop (didn't bet)
+Seat 5: eda4b4e3 folded before Flop (didn't bet)
+Seat 6: bc251a6e folded before Flop (didn't bet)
+
+
+Poker Hand #RC92427766: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:08:21
+Table 'RushAndCash5540' 6-max Seat #1 is the button
+Seat 1: cda2e571 ($46.01 in chips)
+Seat 2: 6f274c59 ($28.06 in chips)
+Seat 3: ae861be6 ($31.77 in chips)
+Seat 4: Hero ($54.26 in chips)
+Seat 5: e8bf5096 ($25.1 in chips)
+Seat 6: 1b498ea1 ($64.35 in chips)
+6f274c59: posts small blind $0.1
+ae861be6: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to cda2e571 
+Dealt to 6f274c59 
+Dealt to ae861be6 
+Dealt to Hero [Jc 4c]
+Dealt to e8bf5096 
+Dealt to 1b498ea1 
+Hero: folds
+e8bf5096: folds
+1b498ea1: folds
+cda2e571: raises $0.25 to $0.5
+6f274c59: folds
+ae861be6: folds
+Uncalled bet ($0.25) returned to cda2e571
+*** SHOWDOWN ***
+cda2e571 collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: cda2e571 (button) collected ($0.6)
+Seat 2: 6f274c59 (small blind) folded before Flop
+Seat 3: ae861be6 (big blind) folded before Flop
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: e8bf5096 folded before Flop (didn't bet)
+Seat 6: 1b498ea1 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92427791: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:08:25
+Table 'RushAndCash5542' 6-max Seat #1 is the button
+Seat 1: 1b498ea1 ($64.35 in chips)
+Seat 2: bc251a6e ($69.32 in chips)
+Seat 3: 8b7a5e3a ($31.97 in chips)
+Seat 4: Hero ($54.26 in chips)
+Seat 5: 378f4a5c ($27.39 in chips)
+Seat 6: a37ca301 ($31.1 in chips)
+bc251a6e: posts small blind $0.1
+8b7a5e3a: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 1b498ea1 
+Dealt to bc251a6e 
+Dealt to 8b7a5e3a 
+Dealt to Hero [7h 4c]
+Dealt to 378f4a5c 
+Dealt to a37ca301 
+Hero: folds
+378f4a5c: folds
+a37ca301: raises $0.5 to $0.75
+1b498ea1: folds
+bc251a6e: folds
+8b7a5e3a: folds
+Uncalled bet ($0.5) returned to a37ca301
+*** SHOWDOWN ***
+a37ca301 collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: 1b498ea1 (button) folded before Flop (didn't bet)
+Seat 2: bc251a6e (small blind) folded before Flop
+Seat 3: 8b7a5e3a (big blind) folded before Flop
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: 378f4a5c folded before Flop (didn't bet)
+Seat 6: a37ca301 collected ($0.6)
+
+
+Poker Hand #RC92427833: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:08:32
+Table 'RushAndCash5546' 6-max Seat #1 is the button
+Seat 1: 6f274c59 ($27.96 in chips)
+Seat 2: 127991ad ($28.21 in chips)
+Seat 3: 23897bd7 ($25 in chips)
+Seat 4: e8bf5096 ($25.1 in chips)
+Seat 5: fe73124e ($30.9 in chips)
+Seat 6: Hero ($54.26 in chips)
+127991ad: posts small blind $0.1
+23897bd7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 6f274c59 
+Dealt to 127991ad 
+Dealt to 23897bd7 
+Dealt to e8bf5096 
+Dealt to fe73124e 
+Dealt to Hero [9h 8d]
+e8bf5096: folds
+fe73124e: folds
+Hero: folds
+6f274c59: raises $0.38 to $0.63
+127991ad: calls $0.53
+23897bd7: calls $0.38
+*** FLOP *** [4h 8h Kc]
+127991ad: checks
+23897bd7: checks
+6f274c59: checks
+*** TURN *** [4h 8h Kc] [7d]
+127991ad: bets $1.75
+23897bd7: calls $1.75
+6f274c59: folds
+*** RIVER *** [4h 8h Kc 7d] [Qc]
+127991ad: bets $4.1
+23897bd7: folds
+Uncalled bet ($4.1) returned to 127991ad
+*** SHOWDOWN ***
+127991ad collected $5.39 from pot
+*** SUMMARY ***
+Total pot $5.39
+Board [4h 8h Kc 7d Qc]
+Seat 1: 6f274c59 (button) folded on the Turn
+Seat 2: 127991ad (small blind) won ($5.39)
+Seat 3: 23897bd7 (big blind) folded on the River
+Seat 4: e8bf5096 folded before Flop (didn't bet)
+Seat 5: fe73124e folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+Poker Hand #RC92427907: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:08:43
+Table 'RushAndCash5553' 6-max Seat #1 is the button
+Seat 1: d88dd0db ($33.47 in chips)
+Seat 2: 57aafc5b ($61.08 in chips)
+Seat 3: Hero ($54.26 in chips)
+Seat 4: 86a35141 ($45.03 in chips)
+Seat 5: 548e4b41 ($25 in chips)
+Seat 6: fc7d6eac ($49.95 in chips)
+57aafc5b: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to d88dd0db 
+Dealt to 57aafc5b 
+Dealt to Hero [Kh 5c]
+Dealt to 86a35141 
+Dealt to 548e4b41 
+Dealt to fc7d6eac 
+86a35141: folds
+548e4b41: folds
+fc7d6eac: folds
+d88dd0db: folds
+57aafc5b: raises $0.5 to $0.75
+Hero: folds
+Uncalled bet ($0.5) returned to 57aafc5b
+*** SHOWDOWN ***
+57aafc5b collected $0.5 from pot
+*** SUMMARY ***
+Total pot $0.5
+Seat 1: d88dd0db (button) folded before Flop (didn't bet)
+Seat 2: 57aafc5b (small blind) collected ($0.5)
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: 86a35141 folded before Flop (didn't bet)
+Seat 5: 548e4b41 folded before Flop (didn't bet)
+Seat 6: fc7d6eac folded before Flop (didn't bet)
+
+
+Poker Hand #RC92427929: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:08:46
+Table 'RushAndCash5555' 6-max Seat #1 is the button
+Seat 1: 8b7a5e3a ($31.72 in chips)
+Seat 2: Hero ($54.01 in chips)
+Seat 3: bc251a6e ($69.22 in chips)
+Seat 4: 66910072 ($25 in chips)
+Seat 5: af8ae04d ($25 in chips)
+Seat 6: 86a35141 ($45.03 in chips)
+Hero: posts small blind $0.1
+bc251a6e: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 8b7a5e3a 
+Dealt to Hero [Th 4c]
+Dealt to bc251a6e 
+Dealt to 66910072 
+Dealt to af8ae04d 
+Dealt to 86a35141 
+66910072: folds
+af8ae04d: folds
+86a35141: folds
+8b7a5e3a: folds
+Hero: folds
+Uncalled bet ($0.15) returned to bc251a6e
+*** SHOWDOWN ***
+bc251a6e collected $0.2 from pot
+*** SUMMARY ***
+Total pot $0.2
+Seat 1: 8b7a5e3a (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: bc251a6e (big blind) collected ($0.2)
+Seat 4: 66910072 folded before Flop (didn't bet)
+Seat 5: af8ae04d folded before Flop (didn't bet)
+Seat 6: 86a35141 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92427973: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:08:54
+Table 'RushAndCash5558' 6-max Seat #1 is the button
+Seat 1: Hero ($53.91 in chips)
+Seat 2: 761554a9 ($29.24 in chips)
+Seat 3: cda2e571 ($46.26 in chips)
+Seat 4: d88dd0db ($33.47 in chips)
+Seat 5: 68ad306d ($33.61 in chips)
+Seat 6: 6219fb0f ($121.44 in chips)
+761554a9: posts small blind $0.1
+cda2e571: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [5h 3d]
+Dealt to 761554a9 
+Dealt to cda2e571 
+Dealt to d88dd0db 
+Dealt to 68ad306d 
+Dealt to 6219fb0f 
+d88dd0db: folds
+68ad306d: folds
+6219fb0f: raises $0.38 to $0.63
+Hero: folds
+761554a9: folds
+cda2e571: calls $0.38
+*** FLOP *** [Th Jc Qc]
+cda2e571: checks
+6219fb0f: bets $0.5
+cda2e571: calls $0.5
+*** TURN *** [Th Jc Qc] [Kc]
+cda2e571: bets $1.2
+6219fb0f: calls $1.2
+*** RIVER *** [Th Jc Qc Kc] [As]
+cda2e571: checks
+6219fb0f: bets $119.11 and is all-in
+cda2e571: folds
+Uncalled bet ($119.11) returned to 6219fb0f
+*** SHOWDOWN ***
+6219fb0f collected $4.76 from pot
+*** SUMMARY ***
+Total pot $4.76
+Board [Th Jc Qc Kc As]
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: 761554a9 (small blind) folded before Flop
+Seat 3: cda2e571 (big blind) folded on the River
+Seat 4: d88dd0db folded before Flop (didn't bet)
+Seat 5: 68ad306d folded before Flop (didn't bet)
+Seat 6: 6219fb0f won ($4.76)
+
+
+Poker Hand #RC92428000: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:08:58
+Table 'RushAndCash5561' 6-max Seat #1 is the button
+Seat 1: b9a49d77 ($56.07 in chips)
+Seat 2: 65743f16 ($25 in chips)
+Seat 3: 6fc0f474 ($39.61 in chips)
+Seat 4: Hero ($53.91 in chips)
+Seat 5: 4832cd4a ($43.02 in chips)
+Seat 6: 68ad306d ($33.61 in chips)
+65743f16: posts small blind $0.1
+6fc0f474: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to b9a49d77 
+Dealt to 65743f16 
+Dealt to 6fc0f474 
+Dealt to Hero [Ad Kd]
+Dealt to 4832cd4a 
+Dealt to 68ad306d 
+Hero: raises $0.38 to $0.63
+4832cd4a: folds
+68ad306d: folds
+b9a49d77: folds
+65743f16: folds
+6fc0f474: folds
+Uncalled bet ($0.38) returned to Hero
+*** SHOWDOWN ***
+Hero collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: b9a49d77 (button) folded before Flop (didn't bet)
+Seat 2: 65743f16 (small blind) folded before Flop
+Seat 3: 6fc0f474 (big blind) folded before Flop
+Seat 4: Hero collected ($0.6)
+Seat 5: 4832cd4a folded before Flop (didn't bet)
+Seat 6: 68ad306d folded before Flop (didn't bet)
+
+
+Poker Hand #RC92428085: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:09:12
+Table 'RushAndCash5569' 6-max Seat #1 is the button
+Seat 1: f62e1de3 ($38.87 in chips)
+Seat 2: 86a35141 ($45.93 in chips)
+Seat 3: d1b751fa ($25 in chips)
+Seat 4: d88dd0db ($33.47 in chips)
+Seat 5: Hero ($54.26 in chips)
+Seat 6: dd20f9bc ($36.5 in chips)
+86a35141: posts small blind $0.1
+d1b751fa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to f62e1de3 
+Dealt to 86a35141 
+Dealt to d1b751fa 
+Dealt to d88dd0db 
+Dealt to Hero [Kh Qh]
+Dealt to dd20f9bc 
+d88dd0db: folds
+Hero: raises $0.38 to $0.63
+dd20f9bc: folds
+f62e1de3: folds
+86a35141: folds
+d1b751fa: folds
+Uncalled bet ($0.38) returned to Hero
+*** SHOWDOWN ***
+Hero collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: f62e1de3 (button) folded before Flop (didn't bet)
+Seat 2: 86a35141 (small blind) folded before Flop
+Seat 3: d1b751fa (big blind) folded before Flop
+Seat 4: d88dd0db folded before Flop (didn't bet)
+Seat 5: Hero collected ($0.6)
+Seat 6: dd20f9bc folded before Flop (didn't bet)
+
+
+Poker Hand #RC92428176: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:09:27
+Table 'RushAndCash5579' 6-max Seat #1 is the button
+Seat 1: 378f4a5c ($27.04 in chips)
+Seat 2: Hero ($54.61 in chips)
+Seat 3: 57aafc5b ($61.68 in chips)
+Seat 4: f62e1de3 ($38.87 in chips)
+Seat 5: f1a461d7 ($24.97 in chips)
+Seat 6: 4832cd4a ($42.77 in chips)
+Hero: posts small blind $0.1
+57aafc5b: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 378f4a5c 
+Dealt to Hero [8h 3s]
+Dealt to 57aafc5b 
+Dealt to f62e1de3 
+Dealt to f1a461d7 
+Dealt to 4832cd4a 
+f62e1de3: folds
+f1a461d7: folds
+4832cd4a: folds
+378f4a5c: raises $0.5 to $0.75
+Hero: folds
+57aafc5b: calls $0.5
+*** FLOP *** [8d 4c 9h]
+57aafc5b: checks
+378f4a5c: bets $1.2
+57aafc5b: calls $1.2
+*** TURN *** [8d 4c 9h] [Kc]
+57aafc5b: checks
+378f4a5c: bets $2
+57aafc5b: folds
+Uncalled bet ($2) returned to 378f4a5c
+*** SHOWDOWN ***
+378f4a5c collected $4 from pot
+*** SUMMARY ***
+Total pot $4
+Board [8d 4c 9h Kc]
+Seat 1: 378f4a5c (button) won ($4)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 57aafc5b (big blind) folded on the Turn
+Seat 4: f62e1de3 folded before Flop (didn't bet)
+Seat 5: f1a461d7 folded before Flop (didn't bet)
+Seat 6: 4832cd4a folded before Flop (didn't bet)
+
+
+Poker Hand #RC92428195: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:09:31
+Table 'RushAndCash5581' 6-max Seat #1 is the button
+Seat 1: a37ca301 ($31.45 in chips)
+Seat 2: 64725a90 ($35.83 in chips)
+Seat 3: Hero ($54.51 in chips)
+Seat 4: 8b7a5e3a ($31.72 in chips)
+Seat 5: bc251a6e ($69.22 in chips)
+Seat 6: b9a49d77 ($55.82 in chips)
+64725a90: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to a37ca301 
+Dealt to 64725a90 
+Dealt to Hero [9s 8s]
+Dealt to 8b7a5e3a 
+Dealt to bc251a6e 
+Dealt to b9a49d77 
+8b7a5e3a: folds
+bc251a6e: raises $0.38 to $0.63
+b9a49d77: folds
+a37ca301: folds
+64725a90: folds
+Hero: calls $0.38
+*** FLOP *** [Kd Kh 7h]
+Hero: checks
+bc251a6e: bets $0.5
+Hero: folds
+Uncalled bet ($0.5) returned to bc251a6e
+*** SHOWDOWN ***
+bc251a6e collected $1.36 from pot
+*** SUMMARY ***
+Total pot $1.36
+Board [Kd Kh 7h]
+Seat 1: a37ca301 (button) folded before Flop (didn't bet)
+Seat 2: 64725a90 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded on the Flop
+Seat 4: 8b7a5e3a folded before Flop (didn't bet)
+Seat 5: bc251a6e won ($1.36)
+Seat 6: b9a49d77 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92428422: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:10:06
+Table 'RushAndCash5605' 6-max Seat #1 is the button
+Seat 1: Hero ($53.88 in chips)
+Seat 2: 40887aca ($25.1 in chips)
+Seat 3: 1b498ea1 ($64.2 in chips)
+Seat 4: bc251a6e ($69.89 in chips)
+Seat 5: bdedee74 ($25 in chips)
+Seat 6: a37ca301 ($31.45 in chips)
+40887aca: posts small blind $0.1
+1b498ea1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Ah Qd]
+Dealt to 40887aca 
+Dealt to 1b498ea1 
+Dealt to bc251a6e 
+Dealt to bdedee74 
+Dealt to a37ca301 
+bc251a6e: folds
+bdedee74: folds
+a37ca301: folds
+Hero: raises $0.38 to $0.63
+40887aca: folds
+1b498ea1: folds
+Uncalled bet ($0.38) returned to Hero
+*** SHOWDOWN ***
+Hero collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: Hero (button) collected ($0.6)
+Seat 2: 40887aca (small blind) folded before Flop
+Seat 3: 1b498ea1 (big blind) folded before Flop
+Seat 4: bc251a6e folded before Flop (didn't bet)
+Seat 5: bdedee74 folded before Flop (didn't bet)
+Seat 6: a37ca301 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92428549: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:10:24
+Table 'RushAndCash5616' 6-max Seat #1 is the button
+Seat 1: 1b498ea1 ($63.95 in chips)
+Seat 2: d1b751fa ($25.1 in chips)
+Seat 3: 6219fb0f ($123.54 in chips)
+Seat 4: Hero ($54.23 in chips)
+Seat 5: af8ae04d ($25 in chips)
+Seat 6: dd20f9bc ($38.99 in chips)
+d1b751fa: posts small blind $0.1
+6219fb0f: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 1b498ea1 
+Dealt to d1b751fa 
+Dealt to 6219fb0f 
+Dealt to Hero [9d 3h]
+Dealt to af8ae04d 
+Dealt to dd20f9bc 
+Hero: folds
+af8ae04d: folds
+dd20f9bc: folds
+1b498ea1: raises $0.38 to $0.63
+d1b751fa: folds
+6219fb0f: folds
+Uncalled bet ($0.38) returned to 1b498ea1
+*** SHOWDOWN ***
+1b498ea1 collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: 1b498ea1 (button) collected ($0.6)
+Seat 2: d1b751fa (small blind) folded before Flop
+Seat 3: 6219fb0f (big blind) folded before Flop
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: af8ae04d folded before Flop (didn't bet)
+Seat 6: dd20f9bc folded before Flop (didn't bet)
+
+
+Poker Hand #RC92428594: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:10:32
+Table 'RushAndCash5619' 6-max Seat #1 is the button
+Seat 1: e8bf5096 ($25 in chips)
+Seat 2: af8ae04d ($25 in chips)
+Seat 3: 81ce9558 ($25 in chips)
+Seat 4: Hero ($54.23 in chips)
+Seat 5: 66910072 ($29.69 in chips)
+Seat 6: 657ea13b ($25.91 in chips)
+af8ae04d: posts small blind $0.1
+81ce9558: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to e8bf5096 
+Dealt to af8ae04d 
+Dealt to 81ce9558 
+Dealt to Hero [Ad Ks]
+Dealt to 66910072 
+Dealt to 657ea13b 
+Hero: raises $0.38 to $0.63
+66910072: folds
+657ea13b: folds
+e8bf5096: folds
+af8ae04d: calls $0.53
+81ce9558: folds
+*** FLOP *** [6h Kc 7h]
+af8ae04d: checks
+Hero: bets $1.2
+af8ae04d: folds
+Uncalled bet ($1.2) returned to Hero
+*** SHOWDOWN ***
+Hero collected $1.51 from pot
+*** SUMMARY ***
+Total pot $1.51
+Board [6h Kc 7h]
+Seat 1: e8bf5096 (button) folded before Flop (didn't bet)
+Seat 2: af8ae04d (small blind) folded on the Flop
+Seat 3: 81ce9558 (big blind) folded before Flop
+Seat 4: Hero won ($1.51)
+Seat 5: 66910072 folded before Flop (didn't bet)
+Seat 6: 657ea13b folded before Flop (didn't bet)
+
+
+Poker Hand #RC92428760: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:10:58
+Table 'RushAndCash5633' 6-max Seat #1 is the button
+Seat 1: f6c9a5ce ($30.55 in chips)
+Seat 2: 65743f16 ($25.16 in chips)
+Seat 3: 12ffc28a ($86.12 in chips)
+Seat 4: 86a35141 ($45.07 in chips)
+Seat 5: Hero ($55.04 in chips)
+Seat 6: 548e4b41 ($25 in chips)
+65743f16: posts small blind $0.1
+12ffc28a: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to f6c9a5ce 
+Dealt to 65743f16 
+Dealt to 12ffc28a 
+Dealt to 86a35141 
+Dealt to Hero [Kh 3h]
+Dealt to 548e4b41 
+86a35141: folds
+Hero: folds
+548e4b41: folds
+f6c9a5ce: raises $0.38 to $0.63
+65743f16: folds
+12ffc28a: folds
+Uncalled bet ($0.38) returned to f6c9a5ce
+*** SHOWDOWN ***
+f6c9a5ce collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: f6c9a5ce (button) collected ($0.6)
+Seat 2: 65743f16 (small blind) folded before Flop
+Seat 3: 12ffc28a (big blind) folded before Flop
+Seat 4: 86a35141 folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: 548e4b41 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92428797: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:11:04
+Table 'RushAndCash5637' 6-max Seat #1 is the button
+Seat 1: 40887aca ($25 in chips)
+Seat 2: 6c0f2d78 ($41.39 in chips)
+Seat 3: 57aafc5b ($59.73 in chips)
+Seat 4: Hero ($55.04 in chips)
+Seat 5: 68ad306d ($32.33 in chips)
+Seat 6: 548e4b41 ($25 in chips)
+6c0f2d78: posts small blind $0.1
+57aafc5b: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 40887aca 
+Dealt to 6c0f2d78 
+Dealt to 57aafc5b 
+Dealt to Hero [Qh Th]
+Dealt to 68ad306d 
+Dealt to 548e4b41 
+Hero: raises $0.38 to $0.63
+68ad306d: folds
+548e4b41: raises $0.57 to $1.2
+40887aca: folds
+6c0f2d78: folds
+57aafc5b: folds
+Hero: calls $0.57
+*** FLOP *** [7h 2h Qs]
+Hero: checks
+548e4b41: bets $2.1
+Hero: raises $3.57 to $5.67
+548e4b41: calls $3.57
+*** TURN *** [7h 2h Qs] [Ad]
+Hero: checks
+548e4b41: bets $6.85
+Hero: raises $27.85 to $34.7
+548e4b41: folds
+Uncalled bet ($27.85) returned to Hero
+*** SHOWDOWN ***
+Hero collected $27.79 from pot
+*** SUMMARY ***
+Total pot $27.79
+Board [7h 2h Qs Ad]
+Seat 1: 40887aca (button) folded before Flop (didn't bet)
+Seat 2: 6c0f2d78 (small blind) folded before Flop
+Seat 3: 57aafc5b (big blind) folded before Flop
+Seat 4: Hero won ($27.79)
+Seat 5: 68ad306d folded before Flop (didn't bet)
+Seat 6: 548e4b41 folded on the Turn
+
+
+Poker Hand #RC92429197: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:12:05
+Table 'RushAndCash5668' 6-max Seat #1 is the button
+Seat 1: 86a35141 ($44.16 in chips)
+Seat 2: 548e4b41 ($25 in chips)
+Seat 3: Hero ($68.11 in chips)
+Seat 4: b3743ad0 ($25 in chips)
+Seat 5: 8cb7f957 ($22.12 in chips)
+Seat 6: 1b498ea1 ($63.85 in chips)
+Cash Drop to Pot : total $2.5 
+548e4b41: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 86a35141 
+Dealt to 548e4b41 
+Dealt to Hero [6c 2c]
+Dealt to b3743ad0 
+Dealt to 8cb7f957 
+Dealt to 1b498ea1 
+b3743ad0: folds
+8cb7f957: folds
+1b498ea1: folds
+86a35141: folds
+548e4b41: raises $24.75 to $25 and is all-in
+Hero: folds
+Uncalled bet ($24.75) returned to 548e4b41
+*** SHOWDOWN ***
+548e4b41 collected $3 from pot
+*** SUMMARY ***
+Total pot $3
+Seat 1: 86a35141 (button) folded before Flop (didn't bet)
+Seat 2: 548e4b41 (small blind) collected ($3)
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: b3743ad0 folded before Flop (didn't bet)
+Seat 5: 8cb7f957 folded before Flop (didn't bet)
+Seat 6: 1b498ea1 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92429257: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:12:15
+Table 'RushAndCash5673' 6-max Seat #1 is the button
+Seat 1: d88dd0db ($29.57 in chips)
+Seat 2: Hero ($67.86 in chips)
+Seat 3: a37ca301 ($31.26 in chips)
+Seat 4: 68ad306d ($31.1 in chips)
+Seat 5: 8cb7f957 ($22.12 in chips)
+Seat 6: 6219fb0f ($125.71 in chips)
+Hero: posts small blind $0.1
+a37ca301: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to d88dd0db 
+Dealt to Hero [Td 5d]
+Dealt to a37ca301 
+Dealt to 68ad306d 
+Dealt to 8cb7f957 
+Dealt to 6219fb0f 
+68ad306d: folds
+8cb7f957: folds
+6219fb0f: folds
+d88dd0db: folds
+Hero: folds
+Uncalled bet ($0.15) returned to a37ca301
+*** SHOWDOWN ***
+a37ca301 collected $0.2 from pot
+*** SUMMARY ***
+Total pot $0.2
+Seat 1: d88dd0db (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: a37ca301 (big blind) collected ($0.2)
+Seat 4: 68ad306d folded before Flop (didn't bet)
+Seat 5: 8cb7f957 folded before Flop (didn't bet)
+Seat 6: 6219fb0f folded before Flop (didn't bet)
+
+
+Poker Hand #RC92429288: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:12:20
+Table 'RushAndCash5676' 6-max Seat #1 is the button
+Seat 1: Hero ($67.76 in chips)
+Seat 2: 8cb7f957 ($22.12 in chips)
+Seat 3: bdedee74 ($26.12 in chips)
+Seat 4: cea3ade1 ($84.32 in chips)
+Seat 5: fcf1a3a6 ($56.05 in chips)
+Seat 6: 68ad306d ($31.1 in chips)
+8cb7f957: posts small blind $0.1
+bdedee74: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Td 5c]
+Dealt to 8cb7f957 
+Dealt to bdedee74 
+Dealt to cea3ade1 
+Dealt to fcf1a3a6 
+Dealt to 68ad306d 
+cea3ade1: folds
+fcf1a3a6: folds
+68ad306d: folds
+Hero: folds
+8cb7f957: raises $0.5 to $0.75
+bdedee74: folds
+Uncalled bet ($0.5) returned to 8cb7f957
+*** SHOWDOWN ***
+8cb7f957 collected $0.5 from pot
+*** SUMMARY ***
+Total pot $0.5
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: 8cb7f957 (small blind) collected ($0.5)
+Seat 3: bdedee74 (big blind) folded before Flop
+Seat 4: cea3ade1 folded before Flop (didn't bet)
+Seat 5: fcf1a3a6 folded before Flop (didn't bet)
+Seat 6: 68ad306d folded before Flop (didn't bet)
+
+
+Poker Hand #RC92429306: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:12:23
+Table 'RushAndCash5678' 6-max Seat #1 is the button
+Seat 1: 6219fb0f ($125.71 in chips)
+Seat 2: f1a461d7 ($26.03 in chips)
+Seat 3: 548e4b41 ($27.6 in chips)
+Seat 4: d88dd0db ($29.57 in chips)
+Seat 5: b3743ad0 ($25 in chips)
+Seat 6: Hero ($67.76 in chips)
+f1a461d7: posts small blind $0.1
+548e4b41: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 6219fb0f 
+Dealt to f1a461d7 
+Dealt to 548e4b41 
+Dealt to d88dd0db 
+Dealt to b3743ad0 
+Dealt to Hero [Ts 9s]
+d88dd0db: folds
+b3743ad0: folds
+Hero: raises $0.38 to $0.63
+6219fb0f: folds
+f1a461d7: folds
+548e4b41: folds
+Uncalled bet ($0.38) returned to Hero
+*** SHOWDOWN ***
+Hero collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: 6219fb0f (button) folded before Flop (didn't bet)
+Seat 2: f1a461d7 (small blind) folded before Flop
+Seat 3: 548e4b41 (big blind) folded before Flop
+Seat 4: d88dd0db folded before Flop (didn't bet)
+Seat 5: b3743ad0 folded before Flop (didn't bet)
+Seat 6: Hero collected ($0.6)
+
+
+Poker Hand #RC92429379: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:12:34
+Table 'RushAndCash5685' 6-max Seat #1 is the button
+Seat 1: 9aa38475 ($59.27 in chips)
+Seat 2: 81ce9558 ($26.23 in chips)
+Seat 3: 8cb7f957 ($22.37 in chips)
+Seat 4: 8a7c3bbc ($51.88 in chips)
+Seat 5: Hero ($68.11 in chips)
+Seat 6: f1a461d7 ($25.93 in chips)
+81ce9558: posts small blind $0.1
+8cb7f957: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 9aa38475 
+Dealt to 81ce9558 
+Dealt to 8cb7f957 
+Dealt to 8a7c3bbc 
+Dealt to Hero [Qh 5h]
+Dealt to f1a461d7 
+8a7c3bbc: folds
+Hero: folds
+f1a461d7: folds
+9aa38475: raises $0.38 to $0.63
+81ce9558: folds
+8cb7f957: folds
+Uncalled bet ($0.38) returned to 9aa38475
+*** SHOWDOWN ***
+9aa38475 collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: 9aa38475 (button) collected ($0.6)
+Seat 2: 81ce9558 (small blind) folded before Flop
+Seat 3: 8cb7f957 (big blind) folded before Flop
+Seat 4: 8a7c3bbc folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: f1a461d7 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92429408: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:12:38
+Table 'RushAndCash5687' 6-max Seat #1 is the button
+Seat 1: 8cb7f957 ($22.12 in chips)
+Seat 2: f1a461d7 ($25.93 in chips)
+Seat 3: dd20f9bc ($42.33 in chips)
+Seat 4: Hero ($68.11 in chips)
+Seat 5: a37ca301 ($31.26 in chips)
+Seat 6: 548e4b41 ($27.35 in chips)
+f1a461d7: posts small blind $0.1
+dd20f9bc: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 8cb7f957 
+Dealt to f1a461d7 
+Dealt to dd20f9bc 
+Dealt to Hero [9h 3d]
+Dealt to a37ca301 
+Dealt to 548e4b41 
+Hero: folds
+a37ca301: folds
+548e4b41: folds
+8cb7f957: folds
+f1a461d7: raises $0.5 to $0.75
+dd20f9bc: folds
+Uncalled bet ($0.5) returned to f1a461d7
+*** SHOWDOWN ***
+f1a461d7 collected $0.5 from pot
+*** SUMMARY ***
+Total pot $0.5
+Seat 1: 8cb7f957 (button) folded before Flop (didn't bet)
+Seat 2: f1a461d7 (small blind) collected ($0.5)
+Seat 3: dd20f9bc (big blind) folded before Flop
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: a37ca301 folded before Flop (didn't bet)
+Seat 6: 548e4b41 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92429430: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:12:42
+Table 'RushAndCash5689' 6-max Seat #1 is the button
+Seat 1: 8565d9b9 ($31.66 in chips)
+Seat 2: 18c7c4e2 ($28.43 in chips)
+Seat 3: Hero ($68.11 in chips)
+Seat 4: 12ffc28a ($85.12 in chips)
+Seat 5: 8cb7f957 ($22.12 in chips)
+Seat 6: 8a7c3bbc ($51.88 in chips)
+18c7c4e2: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 8565d9b9 
+Dealt to 18c7c4e2 
+Dealt to Hero [9h 6s]
+Dealt to 12ffc28a 
+Dealt to 8cb7f957 
+Dealt to 8a7c3bbc 
+12ffc28a: folds
+8cb7f957: folds
+8a7c3bbc: raises $0.38 to $0.63
+8565d9b9: folds
+18c7c4e2: folds
+Hero: folds
+Uncalled bet ($0.38) returned to 8a7c3bbc
+*** SHOWDOWN ***
+8a7c3bbc collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: 8565d9b9 (button) folded before Flop (didn't bet)
+Seat 2: 18c7c4e2 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: 12ffc28a folded before Flop (didn't bet)
+Seat 5: 8cb7f957 folded before Flop (didn't bet)
+Seat 6: 8a7c3bbc collected ($0.6)
+
+
+Poker Hand #RC92429462: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:12:46
+Table 'RushAndCash5692' 6-max Seat #1 is the button
+Seat 1: 8cb7f957 ($22.12 in chips)
+Seat 2: Hero ($67.86 in chips)
+Seat 3: 548e4b41 ($27.35 in chips)
+Seat 4: 8565d9b9 ($31.66 in chips)
+Seat 5: a37ca301 ($31.26 in chips)
+Seat 6: f6c9a5ce ($32.2 in chips)
+Hero: posts small blind $0.1
+548e4b41: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 8cb7f957 
+Dealt to Hero [Ah Ts]
+Dealt to 548e4b41 
+Dealt to 8565d9b9 
+Dealt to a37ca301 
+Dealt to f6c9a5ce 
+8565d9b9: folds
+a37ca301: raises $0.38 to $0.63
+f6c9a5ce: folds
+8cb7f957: folds
+Hero: folds
+548e4b41: folds
+Uncalled bet ($0.38) returned to a37ca301
+*** SHOWDOWN ***
+a37ca301 collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: 8cb7f957 (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 548e4b41 (big blind) folded before Flop
+Seat 4: 8565d9b9 folded before Flop (didn't bet)
+Seat 5: a37ca301 collected ($0.6)
+Seat 6: f6c9a5ce folded before Flop (didn't bet)
+
+
+Poker Hand #RC92429553: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:13:00
+Table 'RushAndCash5700' 6-max Seat #1 is the button
+Seat 1: Hero ($67.76 in chips)
+Seat 2: f62e1de3 ($40.33 in chips)
+Seat 3: fcf1a3a6 ($55.8 in chips)
+Seat 4: 6219fb0f ($125.96 in chips)
+Seat 5: 64725a90 ($33.35 in chips)
+Seat 6: 1aadd4c5 ($30.35 in chips)
+f62e1de3: posts small blind $0.1
+fcf1a3a6: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Jh 8s]
+Dealt to f62e1de3 
+Dealt to fcf1a3a6 
+Dealt to 6219fb0f 
+Dealt to 64725a90 
+Dealt to 1aadd4c5 
+6219fb0f: folds
+64725a90: folds
+1aadd4c5: folds
+Hero: folds
+f62e1de3: raises $0.5 to $0.75
+fcf1a3a6: calls $0.5
+*** FLOP *** [Td 9h Qs]
+f62e1de3: checks
+fcf1a3a6: bets $0.66
+f62e1de3: calls $0.66
+*** TURN *** [Td 9h Qs] [5c]
+f62e1de3: checks
+fcf1a3a6: bets $1.5
+f62e1de3: folds
+Uncalled bet ($1.5) returned to fcf1a3a6
+*** SHOWDOWN ***
+fcf1a3a6 collected $2.82 from pot
+*** SUMMARY ***
+Total pot $2.82
+Board [Td 9h Qs 5c]
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: f62e1de3 (small blind) folded on the Turn
+Seat 3: fcf1a3a6 (big blind) won ($2.82)
+Seat 4: 6219fb0f folded before Flop (didn't bet)
+Seat 5: 64725a90 folded before Flop (didn't bet)
+Seat 6: 1aadd4c5 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92429574: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:13:03
+Table 'RushAndCash5702' 6-max Seat #1 is the button
+Seat 1: c0ba6274 ($33.15 in chips)
+Seat 2: b3743ad0 ($25.1 in chips)
+Seat 3: 6219fb0f ($125.96 in chips)
+Seat 4: d88dd0db ($29.82 in chips)
+Seat 5: Hero ($67.76 in chips)
+Seat 6: 66910072 ($31.1 in chips)
+b3743ad0: posts small blind $0.1
+6219fb0f: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to c0ba6274 
+Dealt to b3743ad0 
+Dealt to 6219fb0f 
+Dealt to d88dd0db 
+Dealt to Hero [As Ts]
+Dealt to 66910072 
+d88dd0db: folds
+Hero: raises $0.38 to $0.63
+66910072: folds
+c0ba6274: folds
+b3743ad0: folds
+6219fb0f: folds
+Uncalled bet ($0.38) returned to Hero
+*** SHOWDOWN ***
+Hero collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: c0ba6274 (button) folded before Flop (didn't bet)
+Seat 2: b3743ad0 (small blind) folded before Flop
+Seat 3: 6219fb0f (big blind) folded before Flop
+Seat 4: d88dd0db folded before Flop (didn't bet)
+Seat 5: Hero collected ($0.6)
+Seat 6: 66910072 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92429698: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:13:21
+Table 'RushAndCash5712' 6-max Seat #1 is the button
+Seat 1: 485c3fa2 ($32.8 in chips)
+Seat 2: dd20f9bc ($42.08 in chips)
+Seat 3: 57aafc5b ($58.13 in chips)
+Seat 4: b3743ad0 ($25 in chips)
+Seat 5: Hero ($68.11 in chips)
+Seat 6: 8565d9b9 ($31.41 in chips)
+dd20f9bc: posts small blind $0.1
+57aafc5b: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 485c3fa2 
+Dealt to dd20f9bc 
+Dealt to 57aafc5b 
+Dealt to b3743ad0 
+Dealt to Hero [Kc Qh]
+Dealt to 8565d9b9 
+b3743ad0: folds
+Hero: raises $0.38 to $0.63
+8565d9b9: folds
+485c3fa2: raises $1.63 to $2.26
+dd20f9bc: folds
+57aafc5b: folds
+Hero: folds
+Uncalled bet ($1.63) returned to 485c3fa2
+*** SHOWDOWN ***
+485c3fa2 collected $1.61 from pot
+*** SUMMARY ***
+Total pot $1.61
+Seat 1: 485c3fa2 (button) collected ($1.61)
+Seat 2: dd20f9bc (small blind) folded before Flop
+Seat 3: 57aafc5b (big blind) folded before Flop
+Seat 4: b3743ad0 folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop
+Seat 6: 8565d9b9 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92429877: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:13:46
+Table 'RushAndCash5723' 6-max Seat #1 is the button
+Seat 1: dd20f9bc ($41.98 in chips)
+Seat 2: 485c3fa2 ($33.7 in chips)
+Seat 3: bdedee74 ($27.22 in chips)
+Seat 4: Hero ($67.48 in chips)
+Seat 5: 64725a90 ($33.6 in chips)
+Seat 6: 548e4b41 ($25.74 in chips)
+485c3fa2: posts small blind $0.1
+bdedee74: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to dd20f9bc 
+Dealt to 485c3fa2 
+Dealt to bdedee74 
+Dealt to Hero [Ks 9h]
+Dealt to 64725a90 
+Dealt to 548e4b41 
+Hero: folds
+64725a90: raises $0.38 to $0.63
+548e4b41: folds
+dd20f9bc: folds
+485c3fa2: folds
+bdedee74: folds
+Uncalled bet ($0.38) returned to 64725a90
+*** SHOWDOWN ***
+64725a90 collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: dd20f9bc (button) folded before Flop (didn't bet)
+Seat 2: 485c3fa2 (small blind) folded before Flop
+Seat 3: bdedee74 (big blind) folded before Flop
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: 64725a90 collected ($0.6)
+Seat 6: 548e4b41 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92429916: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:13:52
+Table 'RushAndCash5726' 6-max Seat #1 is the button
+Seat 1: f262e92f ($25 in chips)
+Seat 2: fcf1a3a6 ($57.07 in chips)
+Seat 3: Hero ($67.48 in chips)
+Seat 4: e8bf5096 ($25 in chips)
+Seat 5: 485c3fa2 ($33.6 in chips)
+Seat 6: 18c7c4e2 ($28.43 in chips)
+fcf1a3a6: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to f262e92f 
+Dealt to fcf1a3a6 
+Dealt to Hero [Js 9c]
+Dealt to e8bf5096 
+Dealt to 485c3fa2 
+Dealt to 18c7c4e2 
+e8bf5096: folds
+485c3fa2: folds
+18c7c4e2: folds
+f262e92f: folds
+fcf1a3a6: raises $0.5 to $0.75
+Hero: calls $0.5
+*** FLOP *** [2s Kh Qc]
+fcf1a3a6: checks
+Hero: checks
+*** TURN *** [2s Kh Qc] [Ah]
+fcf1a3a6: checks
+Hero: checks
+*** RIVER *** [2s Kh Qc Ah] [3d]
+fcf1a3a6: checks
+Hero: checks
+fcf1a3a6: shows [Ts Qh] (Pair of Queens)
+Hero: shows [Js 9c] (Ace-High)
+*** SHOWDOWN ***
+fcf1a3a6 collected $1.5 from pot
+*** SUMMARY ***
+Total pot $1.5
+Board [2s Kh Qc Ah 3d]
+Seat 1: f262e92f (button) folded before Flop (didn't bet)
+Seat 2: fcf1a3a6 (small blind) showed [Qh Ts] and won ($1.5) with Pair of Queens
+Seat 3: Hero (big blind) showed [Js 9c] and lost with Ace-High
+Seat 4: e8bf5096 folded before Flop (didn't bet)
+Seat 5: 485c3fa2 folded before Flop (didn't bet)
+Seat 6: 18c7c4e2 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92430240: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:14:38
+Table 'RushAndCash5749' 6-max Seat #1 is the button
+Seat 1: Hero ($66.73 in chips)
+Seat 2: b9e3462e ($25 in chips)
+Seat 3: 9aa38475 ($63.9 in chips)
+Seat 4: f262e92f ($25.68 in chips)
+Seat 5: 65743f16 ($27.31 in chips)
+Seat 6: 8a7c3bbc ($52.33 in chips)
+b9e3462e: posts small blind $0.1
+9aa38475: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [4d 3s]
+Dealt to b9e3462e 
+Dealt to 9aa38475 
+Dealt to f262e92f 
+Dealt to 65743f16 
+Dealt to 8a7c3bbc 
+f262e92f: folds
+65743f16: folds
+8a7c3bbc: raises $0.38 to $0.63
+Hero: folds
+b9e3462e: folds
+9aa38475: folds
+Uncalled bet ($0.38) returned to 8a7c3bbc
+*** SHOWDOWN ***
+8a7c3bbc collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: b9e3462e (small blind) folded before Flop
+Seat 3: 9aa38475 (big blind) folded before Flop
+Seat 4: f262e92f folded before Flop (didn't bet)
+Seat 5: 65743f16 folded before Flop (didn't bet)
+Seat 6: 8a7c3bbc collected ($0.6)
+
+
+Poker Hand #RC92430278: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:14:43
+Table 'RushAndCash5753' 6-max Seat #1 is the button
+Seat 1: b9e3462e ($25 in chips)
+Seat 2: Hero ($66.73 in chips)
+Seat 3: 6fc0f474 ($39.75 in chips)
+Seat 4: 1aadd4c5 ($29.3 in chips)
+Seat 5: dd20f9bc ($41.63 in chips)
+Seat 6: 8b7a5e3a ($25.55 in chips)
+Hero: posts small blind $0.1
+6fc0f474: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to b9e3462e 
+Dealt to Hero [5d 3s]
+Dealt to 6fc0f474 
+Dealt to 1aadd4c5 
+Dealt to dd20f9bc 
+Dealt to 8b7a5e3a 
+1aadd4c5: raises $0.38 to $0.63
+dd20f9bc: folds
+8b7a5e3a: folds
+b9e3462e: folds
+Hero: folds
+6fc0f474: folds
+Uncalled bet ($0.38) returned to 1aadd4c5
+*** SHOWDOWN ***
+1aadd4c5 collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: b9e3462e (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 6fc0f474 (big blind) folded before Flop
+Seat 4: 1aadd4c5 collected ($0.6)
+Seat 5: dd20f9bc folded before Flop (didn't bet)
+Seat 6: 8b7a5e3a folded before Flop (didn't bet)
+
+
+Poker Hand #RC92430329: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:14:52
+Table 'RushAndCash5759' 6-max Seat #1 is the button
+Seat 1: 9aa38475 ($63.4 in chips)
+Seat 2: 8a7c3bbc ($52.68 in chips)
+Seat 3: 65743f16 ($27.31 in chips)
+Seat 4: b9e3462e ($25 in chips)
+Seat 5: Hero ($66.63 in chips)
+Seat 6: 548e4b41 ($25.04 in chips)
+8a7c3bbc: posts small blind $0.1
+65743f16: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 9aa38475 
+Dealt to 8a7c3bbc 
+Dealt to 65743f16 
+Dealt to b9e3462e 
+Dealt to Hero [5h 4s]
+Dealt to 548e4b41 
+b9e3462e: folds
+Hero: folds
+548e4b41: folds
+9aa38475: folds
+8a7c3bbc: raises $0.5 to $0.75
+65743f16: calls $0.5
+*** FLOP *** [2s 2d 8s]
+8a7c3bbc: bets $0.5
+65743f16: calls $0.5
+*** TURN *** [2s 2d 8s] [6d]
+8a7c3bbc: bets $1.9
+65743f16: calls $1.9
+*** RIVER *** [2s 2d 8s 6d] [4c]
+8a7c3bbc: checks
+65743f16: checks
+8a7c3bbc: shows [7c 9c] (Pair of Twos)
+65743f16: shows [6s Js] (Pair of Sixes and Pair of Twos)
+*** SHOWDOWN ***
+65743f16 collected $6.3 from pot
+*** SUMMARY ***
+Total pot $6.3
+Board [2s 2d 8s 6d 4c]
+Seat 1: 9aa38475 (button) folded before Flop (didn't bet)
+Seat 2: 8a7c3bbc (small blind) showed [9c 7c] and lost with Pair of Twos
+Seat 3: 65743f16 (big blind) showed [Js 6s] and won ($6.3) with Pair of Sixes and Pair of Twos
+Seat 4: b9e3462e folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: 548e4b41 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92430353: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:14:56
+Table 'RushAndCash5762' 6-max Seat #1 is the button
+Seat 1: d1b751fa ($25.35 in chips)
+Seat 2: 9aa38475 ($63.4 in chips)
+Seat 3: 548e4b41 ($25.04 in chips)
+Seat 4: 4832cd4a ($36.85 in chips)
+Seat 5: Hero ($66.63 in chips)
+Seat 6: f62e1de3 ($39.27 in chips)
+9aa38475: posts small blind $0.1
+548e4b41: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to d1b751fa 
+Dealt to 9aa38475 
+Dealt to 548e4b41 
+Dealt to 4832cd4a 
+Dealt to Hero [Ad 5c]
+Dealt to f62e1de3 
+4832cd4a: folds
+Hero: folds
+f62e1de3: raises $0.38 to $0.63
+d1b751fa: folds
+9aa38475: raises $2.13 to $2.76
+548e4b41: folds
+f62e1de3: calls $2.13
+*** FLOP *** [4s 9h 9d]
+9aa38475: checks
+f62e1de3: checks
+*** TURN *** [4s 9h 9d] [8c]
+9aa38475: checks
+f62e1de3: checks
+*** RIVER *** [4s 9h 9d 8c] [6d]
+9aa38475: bets $1.9
+f62e1de3: calls $1.9
+9aa38475: shows [Th Jh] (Pair of Nines)
+f62e1de3: shows [Ac Kh] (Pair of Nines)
+*** SHOWDOWN ***
+f62e1de3 collected $9.57 from pot
+*** SUMMARY ***
+Total pot $9.57
+Board [4s 9h 9d 8c 6d]
+Seat 1: d1b751fa (button) folded before Flop (didn't bet)
+Seat 2: 9aa38475 (small blind) showed [Jh Th] and lost with Pair of Nines
+Seat 3: 548e4b41 (big blind) folded before Flop
+Seat 4: 4832cd4a folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: f62e1de3 showed [Ac Kh] and won ($9.57) with Pair of Nines
+
+
+Poker Hand #RC92430390: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:15:00
+Table 'RushAndCash5765' 6-max Seat #1 is the button
+Seat 1: Hero ($66.63 in chips)
+Seat 2: bc251a6e ($69.58 in chips)
+Seat 3: cea3ade1 ($87.59 in chips)
+Seat 4: 23897bd7 ($30.27 in chips)
+Seat 5: 6f274c59 ($29.15 in chips)
+Seat 6: 1aadd4c5 ($29.65 in chips)
+bc251a6e: posts small blind $0.1
+cea3ade1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [5s 5h]
+Dealt to bc251a6e 
+Dealt to cea3ade1 
+Dealt to 23897bd7 
+Dealt to 6f274c59 
+Dealt to 1aadd4c5 
+23897bd7: folds
+6f274c59: folds
+1aadd4c5: folds
+Hero: raises $0.38 to $0.63
+bc251a6e: raises $1.88 to $2.51
+cea3ade1: folds
+Hero: folds
+Uncalled bet ($1.88) returned to bc251a6e
+*** SHOWDOWN ***
+bc251a6e collected $1.51 from pot
+*** SUMMARY ***
+Total pot $1.51
+Seat 1: Hero (button) folded before Flop
+Seat 2: bc251a6e (small blind) collected ($1.51)
+Seat 3: cea3ade1 (big blind) folded before Flop
+Seat 4: 23897bd7 folded before Flop (didn't bet)
+Seat 5: 6f274c59 folded before Flop (didn't bet)
+Seat 6: 1aadd4c5 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92430605: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:15:35
+Table 'RushAndCash5781' 6-max Seat #1 is the button
+Seat 1: 23897bd7 ($29.92 in chips)
+Seat 2: Hero ($66 in chips)
+Seat 3: 64725a90 ($33.3 in chips)
+Seat 4: d1b751fa ($26.98 in chips)
+Seat 5: cea3ade1 ($87.34 in chips)
+Seat 6: cb222af8 ($64.23 in chips)
+Hero: posts small blind $0.1
+64725a90: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 23897bd7 
+Dealt to Hero [Th 5c]
+Dealt to 64725a90 
+Dealt to d1b751fa 
+Dealt to cea3ade1 
+Dealt to cb222af8 
+d1b751fa: folds
+cea3ade1: folds
+cb222af8: raises $0.38 to $0.63
+23897bd7: folds
+Hero: folds
+64725a90: calls $0.38
+*** FLOP *** [7s 4d Js]
+64725a90: checks
+cb222af8: bets $0.7
+64725a90: calls $0.7
+*** TURN *** [7s 4d Js] [Jh]
+64725a90: checks
+cb222af8: checks
+*** RIVER *** [7s 4d Js Jh] [6d]
+64725a90: bets $2.1
+cb222af8: folds
+Uncalled bet ($2.1) returned to 64725a90
+*** SHOWDOWN ***
+64725a90 collected $2.76 from pot
+*** SUMMARY ***
+Total pot $2.76
+Board [7s 4d Js Jh 6d]
+Seat 1: 23897bd7 (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 64725a90 (big blind) won ($2.76)
+Seat 4: d1b751fa folded before Flop (didn't bet)
+Seat 5: cea3ade1 folded before Flop (didn't bet)
+Seat 6: cb222af8 folded on the River
+
+
+Poker Hand #RC92430647: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:15:42
+Table 'RushAndCash5784' 6-max Seat #1 is the button
+Seat 1: d88dd0db ($29.66 in chips)
+Seat 2: 548e4b41 ($25 in chips)
+Seat 3: 7475daa3 ($25 in chips)
+Seat 4: 23897bd7 ($29.92 in chips)
+Seat 5: 6f274c59 ($28.42 in chips)
+Seat 6: Hero ($65.9 in chips)
+548e4b41: posts small blind $0.1
+7475daa3: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to d88dd0db 
+Dealt to 548e4b41 
+Dealt to 7475daa3 
+Dealt to 23897bd7 
+Dealt to 6f274c59 
+Dealt to Hero [Kh 6s]
+23897bd7: folds
+6f274c59: raises $0.38 to $0.63
+Hero: folds
+d88dd0db: folds
+548e4b41: folds
+7475daa3: folds
+Uncalled bet ($0.38) returned to 6f274c59
+*** SHOWDOWN ***
+6f274c59 collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: d88dd0db (button) folded before Flop (didn't bet)
+Seat 2: 548e4b41 (small blind) folded before Flop
+Seat 3: 7475daa3 (big blind) folded before Flop
+Seat 4: 23897bd7 folded before Flop (didn't bet)
+Seat 5: 6f274c59 collected ($0.6)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+Poker Hand #RC92430671: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:15:46
+Table 'RushAndCash5787' 6-max Seat #1 is the button
+Seat 1: 5080e31b ($24.65 in chips)
+Seat 2: 66910072 ($27.92 in chips)
+Seat 3: 73181eba ($25 in chips)
+Seat 4: eda4b4e3 ($59.34 in chips)
+Seat 5: Hero ($65.9 in chips)
+Seat 6: f1a461d7 ($25.17 in chips)
+66910072: posts small blind $0.1
+73181eba: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 5080e31b 
+Dealt to 66910072 
+Dealt to 73181eba 
+Dealt to eda4b4e3 
+Dealt to Hero [9s 5h]
+Dealt to f1a461d7 
+eda4b4e3: folds
+Hero: folds
+f1a461d7: folds
+5080e31b: folds
+66910072: raises $0.5 to $0.75
+73181eba: calls $0.5
+*** FLOP *** [Ah 2s 6h]
+66910072: bets $0.8
+73181eba: folds
+Uncalled bet ($0.8) returned to 66910072
+*** SHOWDOWN ***
+66910072 collected $1.5 from pot
+*** SUMMARY ***
+Total pot $1.5
+Board [Ah 2s 6h]
+Seat 1: 5080e31b (button) folded before Flop (didn't bet)
+Seat 2: 66910072 (small blind) won ($1.5)
+Seat 3: 73181eba (big blind) folded on the Flop
+Seat 4: eda4b4e3 folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: f1a461d7 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92430692: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:15:49
+Table 'RushAndCash5789' 6-max Seat #1 is the button
+Seat 1: 8a7c3bbc ($49.53 in chips)
+Seat 2: cea3ade1 ($87.34 in chips)
+Seat 3: Hero ($65.9 in chips)
+Seat 4: 6c0f2d78 ($43.84 in chips)
+Seat 5: 65743f16 ($30.15 in chips)
+Seat 6: 81ce9558 ($25 in chips)
+cea3ade1: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 8a7c3bbc 
+Dealt to cea3ade1 
+Dealt to Hero [8s 4s]
+Dealt to 6c0f2d78 
+Dealt to 65743f16 
+Dealt to 81ce9558 
+6c0f2d78: folds
+65743f16: folds
+81ce9558: raises $0.38 to $0.63
+8a7c3bbc: folds
+cea3ade1: raises $2.07 to $2.7
+Hero: folds
+81ce9558: folds
+Uncalled bet ($2.07) returned to cea3ade1
+*** SHOWDOWN ***
+cea3ade1 collected $1.51 from pot
+*** SUMMARY ***
+Total pot $1.51
+Seat 1: 8a7c3bbc (button) folded before Flop (didn't bet)
+Seat 2: cea3ade1 (small blind) collected ($1.51)
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: 6c0f2d78 folded before Flop (didn't bet)
+Seat 5: 65743f16 folded before Flop (didn't bet)
+Seat 6: 81ce9558 folded before Flop
+
+
+Poker Hand #RC92430722: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:15:54
+Table 'RushAndCash5792' 6-max Seat #1 is the button
+Seat 1: dd20f9bc ($39.52 in chips)
+Seat 2: 65743f16 ($30.15 in chips)
+Seat 3: e8bf5096 ($27.49 in chips)
+Seat 4: 6c0f2d78 ($43.84 in chips)
+Seat 5: 23897bd7 ($29.92 in chips)
+Seat 6: Hero ($65.65 in chips)
+65743f16: posts small blind $0.1
+e8bf5096: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to dd20f9bc 
+Dealt to 65743f16 
+Dealt to e8bf5096 
+Dealt to 6c0f2d78 
+Dealt to 23897bd7 
+Dealt to Hero [8s 7s]
+6c0f2d78: folds
+23897bd7: raises $0.38 to $0.63
+Hero: folds
+dd20f9bc: folds
+65743f16: folds
+e8bf5096: folds
+Uncalled bet ($0.38) returned to 23897bd7
+*** SHOWDOWN ***
+23897bd7 collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: dd20f9bc (button) folded before Flop (didn't bet)
+Seat 2: 65743f16 (small blind) folded before Flop
+Seat 3: e8bf5096 (big blind) folded before Flop
+Seat 4: 6c0f2d78 folded before Flop (didn't bet)
+Seat 5: 23897bd7 collected ($0.6)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+Poker Hand #RC92430780: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:16:03
+Table 'RushAndCash5796' 6-max Seat #1 is the button
+Seat 1: a37ca301 ($25 in chips)
+Seat 2: 8565d9b9 ($31.7 in chips)
+Seat 3: 4832cd4a ($38.8 in chips)
+Seat 4: e8bf5096 ($27.14 in chips)
+Seat 5: Hero ($65.65 in chips)
+Seat 6: 6219fb0f ($97.54 in chips)
+8565d9b9: posts small blind $0.1
+4832cd4a: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to a37ca301 
+Dealt to 8565d9b9 
+Dealt to 4832cd4a 
+Dealt to e8bf5096 
+Dealt to Hero [Qs 7c]
+Dealt to 6219fb0f 
+e8bf5096: folds
+Hero: folds
+6219fb0f: folds
+a37ca301: folds
+8565d9b9: raises $0.5 to $0.75
+4832cd4a: folds
+Uncalled bet ($0.5) returned to 8565d9b9
+*** SHOWDOWN ***
+8565d9b9 collected $0.5 from pot
+*** SUMMARY ***
+Total pot $0.5
+Seat 1: a37ca301 (button) folded before Flop (didn't bet)
+Seat 2: 8565d9b9 (small blind) collected ($0.5)
+Seat 3: 4832cd4a (big blind) folded before Flop
+Seat 4: e8bf5096 folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: 6219fb0f folded before Flop (didn't bet)
+
+
+Poker Hand #RC92430813: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:16:08
+Table 'RushAndCash5800' 6-max Seat #1 is the button
+Seat 1: 1aadd4c5 ($29.17 in chips)
+Seat 2: Hero ($65.65 in chips)
+Seat 3: 23897bd7 ($30.27 in chips)
+Seat 4: e8bf5096 ($27.14 in chips)
+Seat 5: 6219fb0f ($97.54 in chips)
+Seat 6: 68ad306d ($29.14 in chips)
+Hero: posts small blind $0.1
+23897bd7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 1aadd4c5 
+Dealt to Hero [7c 3h]
+Dealt to 23897bd7 
+Dealt to e8bf5096 
+Dealt to 6219fb0f 
+Dealt to 68ad306d 
+e8bf5096: folds
+6219fb0f: raises $0.38 to $0.63
+68ad306d: folds
+1aadd4c5: folds
+Hero: folds
+23897bd7: folds
+Uncalled bet ($0.38) returned to 6219fb0f
+*** SHOWDOWN ***
+6219fb0f collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: 1aadd4c5 (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 23897bd7 (big blind) folded before Flop
+Seat 4: e8bf5096 folded before Flop (didn't bet)
+Seat 5: 6219fb0f collected ($0.6)
+Seat 6: 68ad306d folded before Flop (didn't bet)
+
+
+Poker Hand #RC92430834: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:16:11
+Table 'RushAndCash5802' 6-max Seat #1 is the button
+Seat 1: cda2e571 ($69.19 in chips)
+Seat 2: a37ca301 ($25 in chips)
+Seat 3: Hero ($65.55 in chips)
+Seat 4: 8b7a5e3a ($27.19 in chips)
+Seat 5: 485c3fa2 ($33.5 in chips)
+Seat 6: b3743ad0 ($25 in chips)
+a37ca301: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to cda2e571 
+Dealt to a37ca301 
+Dealt to Hero [5d 3c]
+Dealt to 8b7a5e3a 
+Dealt to 485c3fa2 
+Dealt to b3743ad0 
+8b7a5e3a: folds
+485c3fa2: raises $0.38 to $0.63
+b3743ad0: folds
+cda2e571: calls $0.63
+a37ca301: folds
+Hero: folds
+*** FLOP *** [Th 4h Jh]
+485c3fa2: checks
+cda2e571: checks
+*** TURN *** [Th 4h Jh] [Tc]
+485c3fa2: bets $0.9
+cda2e571: calls $0.9
+*** RIVER *** [Th 4h Jh Tc] [7d]
+485c3fa2: bets $1.8
+cda2e571: folds
+Uncalled bet ($1.8) returned to 485c3fa2
+*** SHOWDOWN ***
+485c3fa2 collected $3.41 from pot
+*** SUMMARY ***
+Total pot $3.41
+Board [Th 4h Jh Tc 7d]
+Seat 1: cda2e571 (button) folded on the River
+Seat 2: a37ca301 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: 8b7a5e3a folded before Flop (didn't bet)
+Seat 5: 485c3fa2 won ($3.41)
+Seat 6: b3743ad0 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92430861: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:16:15
+Table 'RushAndCash5804' 6-max Seat #1 is the button
+Seat 1: 3f35fddc ($60.25 in chips)
+Seat 2: 6c0f2d78 ($43.59 in chips)
+Seat 3: bc251a6e ($70.74 in chips)
+Seat 4: f6c9a5ce ($30.87 in chips)
+Seat 5: Hero ($65.3 in chips)
+Seat 6: 41f2e2c ($25 in chips)
+6c0f2d78: posts small blind $0.1
+bc251a6e: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 3f35fddc 
+Dealt to 6c0f2d78 
+Dealt to bc251a6e 
+Dealt to f6c9a5ce 
+Dealt to Hero [Qh Qd]
+Dealt to 41f2e2c 
+f6c9a5ce: folds
+Hero: raises $0.38 to $0.63
+41f2e2c: folds
+3f35fddc: folds
+6c0f2d78: folds
+bc251a6e: folds
+Uncalled bet ($0.38) returned to Hero
+*** SHOWDOWN ***
+Hero collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: 3f35fddc (button) folded before Flop (didn't bet)
+Seat 2: 6c0f2d78 (small blind) folded before Flop
+Seat 3: bc251a6e (big blind) folded before Flop
+Seat 4: f6c9a5ce folded before Flop (didn't bet)
+Seat 5: Hero collected ($0.6)
+Seat 6: 41f2e2c folded before Flop (didn't bet)
+
+
+Poker Hand #RC92430957: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:16:28
+Table 'RushAndCash5812' 6-max Seat #1 is the button
+Seat 1: Hero ($65.65 in chips)
+Seat 2: cee476b8 ($25 in chips)
+Seat 3: 6f274c59 ($28.77 in chips)
+Seat 4: 30a0d2d3 ($33.75 in chips)
+Seat 5: 86a35141 ($73.55 in chips)
+Seat 6: bdedee74 ($33.86 in chips)
+cee476b8: posts small blind $0.1
+6f274c59: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [7c 4s]
+Dealt to cee476b8 
+Dealt to 6f274c59 
+Dealt to 30a0d2d3 
+Dealt to 86a35141 
+Dealt to bdedee74 
+30a0d2d3: folds
+86a35141: folds
+bdedee74: folds
+Hero: folds
+cee476b8: raises $0.5 to $0.75
+6f274c59: folds
+Uncalled bet ($0.5) returned to cee476b8
+*** SHOWDOWN ***
+cee476b8 collected $0.5 from pot
+*** SUMMARY ***
+Total pot $0.5
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: cee476b8 (small blind) collected ($0.5)
+Seat 3: 6f274c59 (big blind) folded before Flop
+Seat 4: 30a0d2d3 folded before Flop (didn't bet)
+Seat 5: 86a35141 folded before Flop (didn't bet)
+Seat 6: bdedee74 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92430980: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:16:32
+Table 'RushAndCash5814' 6-max Seat #1 is the button
+Seat 1: 65743f16 ($30.4 in chips)
+Seat 2: f6c9a5ce ($30.87 in chips)
+Seat 3: 8a7c3bbc ($49.53 in chips)
+Seat 4: 23897bd7 ($29.92 in chips)
+Seat 5: 8cb7f957 ($18.21 in chips)
+Seat 6: Hero ($65.65 in chips)
+f6c9a5ce: posts small blind $0.1
+8a7c3bbc: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 65743f16 
+Dealt to f6c9a5ce 
+Dealt to 8a7c3bbc 
+Dealt to 23897bd7 
+Dealt to 8cb7f957 
+Dealt to Hero [6h 3h]
+23897bd7: folds
+8cb7f957: folds
+Hero: folds
+65743f16: folds
+f6c9a5ce: raises $0.38 to $0.63
+8a7c3bbc: calls $0.38
+*** FLOP *** [4c Kd Qs]
+f6c9a5ce: checks
+8a7c3bbc: checks
+*** TURN *** [4c Kd Qs] [5h]
+f6c9a5ce: checks
+8a7c3bbc: checks
+*** RIVER *** [4c Kd Qs 5h] [5s]
+f6c9a5ce: checks
+8a7c3bbc: checks
+f6c9a5ce: shows [8s Ts] (Pair of Fives)
+8a7c3bbc: shows [6d Jd] (Pair of Fives)
+*** SHOWDOWN ***
+8a7c3bbc collected $1.26 from pot
+*** SUMMARY ***
+Total pot $1.26
+Board [4c Kd Qs 5h 5s]
+Seat 1: 65743f16 (button) folded before Flop (didn't bet)
+Seat 2: f6c9a5ce (small blind) showed [Ts 8s] and lost with Pair of Fives
+Seat 3: 8a7c3bbc (big blind) showed [Jd 6d] and won ($1.26) with Pair of Fives
+Seat 4: 23897bd7 folded before Flop (didn't bet)
+Seat 5: 8cb7f957 folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+Poker Hand #RC92431012: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:16:37
+Table 'RushAndCash5816' 6-max Seat #1 is the button
+Seat 1: 8b7a5e3a ($27.09 in chips)
+Seat 2: bde77059 ($39.94 in chips)
+Seat 3: 41f2e2c ($25 in chips)
+Seat 4: 23897bd7 ($29.92 in chips)
+Seat 5: 5080e31b ($25 in chips)
+Seat 6: Hero ($65.65 in chips)
+bde77059: posts small blind $0.1
+41f2e2c: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 8b7a5e3a 
+Dealt to bde77059 
+Dealt to 41f2e2c 
+Dealt to 23897bd7 
+Dealt to 5080e31b 
+Dealt to Hero [Kh Qh]
+23897bd7: folds
+5080e31b: folds
+Hero: raises $0.38 to $0.63
+8b7a5e3a: folds
+bde77059: folds
+41f2e2c: folds
+Uncalled bet ($0.38) returned to Hero
+*** SHOWDOWN ***
+Hero collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: 8b7a5e3a (button) folded before Flop (didn't bet)
+Seat 2: bde77059 (small blind) folded before Flop
+Seat 3: 41f2e2c (big blind) folded before Flop
+Seat 4: 23897bd7 folded before Flop (didn't bet)
+Seat 5: 5080e31b folded before Flop (didn't bet)
+Seat 6: Hero collected ($0.6)
+
+
+Poker Hand #RC92431110: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:16:51
+Table 'RushAndCash5823' 6-max Seat #1 is the button
+Seat 1: 20adcccd ($32.52 in chips)
+Seat 2: Hero ($66 in chips)
+Seat 3: 8b7a5e3a ($27.09 in chips)
+Seat 4: 41f2e2c ($25 in chips)
+Seat 5: 6c0f2d78 ($42.86 in chips)
+Seat 6: 9aa38475 ($58.74 in chips)
+Hero: posts small blind $0.1
+8b7a5e3a: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 20adcccd 
+Dealt to Hero [9c 4h]
+Dealt to 8b7a5e3a 
+Dealt to 41f2e2c 
+Dealt to 6c0f2d78 
+Dealt to 9aa38475 
+41f2e2c: folds
+6c0f2d78: folds
+9aa38475: folds
+20adcccd: folds
+Hero: folds
+Uncalled bet ($0.15) returned to 8b7a5e3a
+*** SHOWDOWN ***
+8b7a5e3a collected $0.2 from pot
+*** SUMMARY ***
+Total pot $0.2
+Seat 1: 20adcccd (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 8b7a5e3a (big blind) collected ($0.2)
+Seat 4: 41f2e2c folded before Flop (didn't bet)
+Seat 5: 6c0f2d78 folded before Flop (didn't bet)
+Seat 6: 9aa38475 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92431161: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:16:57
+Table 'RushAndCash5828' 6-max Seat #1 is the button
+Seat 1: Hero ($65.9 in chips)
+Seat 2: c989b2a1 ($23.62 in chips)
+Seat 3: b3743ad0 ($25 in chips)
+Seat 4: e8bf5096 ($32.18 in chips)
+Seat 5: 6219fb0f ($97.54 in chips)
+Seat 6: 6f274c59 ($28.52 in chips)
+c989b2a1: posts small blind $0.1
+b3743ad0: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Tc 2s]
+Dealt to c989b2a1 
+Dealt to b3743ad0 
+Dealt to e8bf5096 
+Dealt to 6219fb0f 
+Dealt to 6f274c59 
+e8bf5096: folds
+6219fb0f: folds
+6f274c59: folds
+Hero: folds
+c989b2a1: raises $0.5 to $0.75
+b3743ad0: calls $0.5
+*** FLOP *** [Ts Ad 8s]
+c989b2a1: checks
+b3743ad0: checks
+*** TURN *** [Ts Ad 8s] [Kc]
+c989b2a1: checks
+b3743ad0: bets $0.8
+c989b2a1: calls $0.8
+*** RIVER *** [Ts Ad 8s Kc] [3s]
+c989b2a1: checks
+b3743ad0: checks
+c989b2a1: shows [Kh 9s] (Pair of Kings)
+b3743ad0: shows [Ac 7d] (Pair of Aces)
+*** SHOWDOWN ***
+b3743ad0 collected $3.1 from pot
+*** SUMMARY ***
+Total pot $3.1
+Board [Ts Ad 8s Kc 3s]
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: c989b2a1 (small blind) showed [Kh 9s] and lost with Pair of Kings
+Seat 3: b3743ad0 (big blind) showed [Ac 7d] and won ($3.1) with Pair of Aces
+Seat 4: e8bf5096 folded before Flop (didn't bet)
+Seat 5: 6219fb0f folded before Flop (didn't bet)
+Seat 6: 6f274c59 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92431249: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:17:09
+Table 'RushAndCash5833' 6-max Seat #1 is the button
+Seat 1: a0f8776f ($25 in chips)
+Seat 2: c0ba6274 ($38.97 in chips)
+Seat 3: Hero ($65.9 in chips)
+Seat 4: bde77059 ($39.94 in chips)
+Seat 5: 18c7c4e2 ($25 in chips)
+Seat 6: 9aa38475 ($58.74 in chips)
+c0ba6274: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to a0f8776f 
+Dealt to c0ba6274 
+Dealt to Hero [Jh 3d]
+Dealt to bde77059 
+Dealt to 18c7c4e2 
+Dealt to 9aa38475 
+bde77059: raises $0.38 to $0.63
+18c7c4e2: folds
+9aa38475: calls $0.63
+a0f8776f: folds
+c0ba6274: folds
+Hero: folds
+*** FLOP *** [5d Ks Kc]
+bde77059: checks
+9aa38475: checks
+*** TURN *** [5d Ks Kc] [8c]
+bde77059: checks
+9aa38475: bets $1.15
+bde77059: folds
+Uncalled bet ($1.15) returned to 9aa38475
+*** SHOWDOWN ***
+9aa38475 collected $1.61 from pot
+*** SUMMARY ***
+Total pot $1.61
+Board [5d Ks Kc 8c]
+Seat 1: a0f8776f (button) folded before Flop (didn't bet)
+Seat 2: c0ba6274 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: bde77059 folded on the Turn
+Seat 5: 18c7c4e2 folded before Flop (didn't bet)
+Seat 6: 9aa38475 won ($1.61)
+
+
+Poker Hand #RC92431301: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:17:16
+Table 'RushAndCash5837' 6-max Seat #1 is the button
+Seat 1: bc251a6e ($70.39 in chips)
+Seat 2: fc7d6eac ($44.04 in chips)
+Seat 3: 64725a90 ($34.5 in chips)
+Seat 4: 6fc0f474 ($38.17 in chips)
+Seat 5: f467ba58 ($14.96 in chips)
+Seat 6: Hero ($65.65 in chips)
+fc7d6eac: posts small blind $0.1
+64725a90: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to bc251a6e 
+Dealt to fc7d6eac 
+Dealt to 64725a90 
+Dealt to 6fc0f474 
+Dealt to f467ba58 
+Dealt to Hero [4d 3c]
+6fc0f474: folds
+f467ba58: folds
+Hero: folds
+bc251a6e: raises $0.38 to $0.63
+fc7d6eac: raises $2.07 to $2.7
+64725a90: folds
+bc251a6e: folds
+Uncalled bet ($2.07) returned to fc7d6eac
+*** SHOWDOWN ***
+fc7d6eac collected $1.51 from pot
+*** SUMMARY ***
+Total pot $1.51
+Seat 1: bc251a6e (button) folded before Flop
+Seat 2: fc7d6eac (small blind) collected ($1.51)
+Seat 3: 64725a90 (big blind) folded before Flop
+Seat 4: 6fc0f474 folded before Flop (didn't bet)
+Seat 5: f467ba58 folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+Poker Hand #RC92431331: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:17:21
+Table 'RushAndCash5839' 6-max Seat #1 is the button
+Seat 1: 6219fb0f ($97.54 in chips)
+Seat 2: cb222af8 ($64.25 in chips)
+Seat 3: eda4b4e3 ($55.38 in chips)
+Seat 4: 8cb7f957 ($15.28 in chips)
+Seat 5: e8bf5096 ($31.83 in chips)
+Seat 6: Hero ($65.65 in chips)
+cb222af8: posts small blind $0.1
+eda4b4e3: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 6219fb0f 
+Dealt to cb222af8 
+Dealt to eda4b4e3 
+Dealt to 8cb7f957 
+Dealt to e8bf5096 
+Dealt to Hero [Ad 2c]
+8cb7f957: folds
+e8bf5096: folds
+Hero: folds
+6219fb0f: folds
+cb222af8: folds
+Uncalled bet ($0.15) returned to eda4b4e3
+*** SHOWDOWN ***
+eda4b4e3 collected $0.2 from pot
+*** SUMMARY ***
+Total pot $0.2
+Seat 1: 6219fb0f (button) folded before Flop (didn't bet)
+Seat 2: cb222af8 (small blind) folded before Flop
+Seat 3: eda4b4e3 (big blind) collected ($0.2)
+Seat 4: 8cb7f957 folded before Flop (didn't bet)
+Seat 5: e8bf5096 folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+Poker Hand #RC92431355: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:17:24
+Table 'RushAndCash5841' 6-max Seat #1 is the button
+Seat 1: Hero ($65.65 in chips)
+Seat 2: dd20f9bc ($39.25 in chips)
+Seat 3: c0ba6274 ($38.87 in chips)
+Seat 4: 1aadd4c5 ($29.17 in chips)
+Seat 5: 8cb7f957 ($15.28 in chips)
+Seat 6: bdedee74 ($34.21 in chips)
+dd20f9bc: posts small blind $0.1
+c0ba6274: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Jc 8d]
+Dealt to dd20f9bc 
+Dealt to c0ba6274 
+Dealt to 1aadd4c5 
+Dealt to 8cb7f957 
+Dealt to bdedee74 
+1aadd4c5: folds
+8cb7f957: folds
+bdedee74: folds
+Hero: folds
+dd20f9bc: raises $0.5 to $0.75
+c0ba6274: folds
+Uncalled bet ($0.5) returned to dd20f9bc
+*** SHOWDOWN ***
+dd20f9bc collected $0.5 from pot
+*** SUMMARY ***
+Total pot $0.5
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: dd20f9bc (small blind) collected ($0.5)
+Seat 3: c0ba6274 (big blind) folded before Flop
+Seat 4: 1aadd4c5 folded before Flop (didn't bet)
+Seat 5: 8cb7f957 folded before Flop (didn't bet)
+Seat 6: bdedee74 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92431396: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:17:30
+Table 'RushAndCash5844' 6-max Seat #1 is the button
+Seat 1: cb222af8 ($64.15 in chips)
+Seat 2: Hero ($65.65 in chips)
+Seat 3: f467ba58 ($14.96 in chips)
+Seat 4: bdedee74 ($34.21 in chips)
+Seat 5: 5080e31b ($25 in chips)
+Seat 6: 1aadd4c5 ($29.17 in chips)
+Hero: posts small blind $0.1
+f467ba58: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to cb222af8 
+Dealt to Hero [5s 2s]
+Dealt to f467ba58 
+Dealt to bdedee74 
+Dealt to 5080e31b 
+Dealt to 1aadd4c5 
+bdedee74: raises $0.38 to $0.63
+5080e31b: folds
+1aadd4c5: calls $0.63
+cb222af8: folds
+Hero: folds
+f467ba58: calls $0.38
+*** FLOP *** [3h Ts Ac]
+f467ba58: checks
+bdedee74: checks
+1aadd4c5: checks
+*** TURN *** [3h Ts Ac] [8s]
+f467ba58: bets $0.25
+bdedee74: calls $0.25
+1aadd4c5: raises $2.65 to $2.9
+f467ba58: folds
+bdedee74: folds
+Uncalled bet ($2.65) returned to 1aadd4c5
+*** SHOWDOWN ***
+1aadd4c5 collected $2.74 from pot
+*** SUMMARY ***
+Total pot $2.74
+Board [3h Ts Ac 8s]
+Seat 1: cb222af8 (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: f467ba58 (big blind) folded on the Turn
+Seat 4: bdedee74 folded on the Turn
+Seat 5: 5080e31b folded before Flop (didn't bet)
+Seat 6: 1aadd4c5 won ($2.74)
+
+
+Poker Hand #RC92431427: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:17:34
+Table 'RushAndCash5847' 6-max Seat #1 is the button
+Seat 1: 6fc0f474 ($38.17 in chips)
+Seat 2: 41f2e2c ($25 in chips)
+Seat 3: Hero ($65.55 in chips)
+Seat 4: af8ae04d ($25 in chips)
+Seat 5: f262e92f ($26.79 in chips)
+Seat 6: 1b498ea1 ($93.11 in chips)
+41f2e2c: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 6fc0f474 
+Dealt to 41f2e2c 
+Dealt to Hero [8d 4d]
+Dealt to af8ae04d 
+Dealt to f262e92f 
+Dealt to 1b498ea1 
+af8ae04d: folds
+f262e92f: folds
+1b498ea1: folds
+6fc0f474: folds
+41f2e2c: folds
+Uncalled bet ($0.15) returned to Hero
+*** SHOWDOWN ***
+Hero collected $0.2 from pot
+*** SUMMARY ***
+Total pot $0.2
+Seat 1: 6fc0f474 (button) folded before Flop (didn't bet)
+Seat 2: 41f2e2c (small blind) folded before Flop
+Seat 3: Hero (big blind) collected ($0.2)
+Seat 4: af8ae04d folded before Flop (didn't bet)
+Seat 5: f262e92f folded before Flop (didn't bet)
+Seat 6: 1b498ea1 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92431452: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:17:38
+Table 'RushAndCash5849' 6-max Seat #1 is the button
+Seat 1: cee476b8 ($25.92 in chips)
+Seat 2: f262e92f ($26.79 in chips)
+Seat 3: af8ae04d ($25 in chips)
+Seat 4: 18c7c4e2 ($25 in chips)
+Seat 5: 57aafc5b ($58.86 in chips)
+Seat 6: Hero ($65.3 in chips)
+f262e92f: posts small blind $0.1
+af8ae04d: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to cee476b8 
+Dealt to f262e92f 
+Dealt to af8ae04d 
+Dealt to 18c7c4e2 
+Dealt to 57aafc5b 
+Dealt to Hero [Qh 5c]
+18c7c4e2: folds
+57aafc5b: folds
+Hero: folds
+cee476b8: raises $0.38 to $0.63
+f262e92f: folds
+af8ae04d: folds
+Uncalled bet ($0.38) returned to cee476b8
+*** SHOWDOWN ***
+cee476b8 collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: cee476b8 (button) collected ($0.6)
+Seat 2: f262e92f (small blind) folded before Flop
+Seat 3: af8ae04d (big blind) folded before Flop
+Seat 4: 18c7c4e2 folded before Flop (didn't bet)
+Seat 5: 57aafc5b folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+Poker Hand #RC92431484: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:17:43
+Table 'RushAndCash5851' 6-max Seat #1 is the button
+Seat 1: 41f2e2c ($25 in chips)
+Seat 2: 8565d9b9 ($34.72 in chips)
+Seat 3: 81ce9558 ($25 in chips)
+Seat 4: Hero ($65.3 in chips)
+Seat 5: c0ba6274 ($38.62 in chips)
+Seat 6: e8bf5096 ($31.83 in chips)
+8565d9b9: posts small blind $0.1
+81ce9558: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 41f2e2c 
+Dealt to 8565d9b9 
+Dealt to 81ce9558 
+Dealt to Hero [Ts 4c]
+Dealt to c0ba6274 
+Dealt to e8bf5096 
+Hero: folds
+c0ba6274: folds
+e8bf5096: folds
+41f2e2c: raises $0.5 to $0.75
+8565d9b9: raises $2.6 to $3.35
+81ce9558: folds
+41f2e2c: folds
+Uncalled bet ($2.6) returned to 8565d9b9
+*** SHOWDOWN ***
+8565d9b9 collected $1.75 from pot
+*** SUMMARY ***
+Total pot $1.75
+Seat 1: 41f2e2c (button) folded before Flop
+Seat 2: 8565d9b9 (small blind) collected ($1.75)
+Seat 3: 81ce9558 (big blind) folded before Flop
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: c0ba6274 folded before Flop (didn't bet)
+Seat 6: e8bf5096 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92431507: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:17:46
+Table 'RushAndCash5853' 6-max Seat #1 is the button
+Seat 1: fcf1a3a6 ($57.75 in chips)
+Seat 2: 65743f16 ($33.28 in chips)
+Seat 3: 8cb7f957 ($15.18 in chips)
+Seat 4: f6c9a5ce ($29.99 in chips)
+Seat 5: cb222af8 ($64.15 in chips)
+Seat 6: Hero ($65.3 in chips)
+65743f16: posts small blind $0.1
+8cb7f957: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to fcf1a3a6 
+Dealt to 65743f16 
+Dealt to 8cb7f957 
+Dealt to f6c9a5ce 
+Dealt to cb222af8 
+Dealt to Hero [Qc 5c]
+f6c9a5ce: folds
+cb222af8: folds
+Hero: folds
+fcf1a3a6: raises $0.38 to $0.63
+65743f16: raises $2.07 to $2.7
+8cb7f957: folds
+fcf1a3a6: folds
+Uncalled bet ($2.07) returned to 65743f16
+*** SHOWDOWN ***
+65743f16 collected $1.51 from pot
+*** SUMMARY ***
+Total pot $1.51
+Seat 1: fcf1a3a6 (button) folded before Flop
+Seat 2: 65743f16 (small blind) collected ($1.51)
+Seat 3: 8cb7f957 (big blind) folded before Flop
+Seat 4: f6c9a5ce folded before Flop (didn't bet)
+Seat 5: cb222af8 folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+Poker Hand #RC92431571: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:17:56
+Table 'RushAndCash5858' 6-max Seat #1 is the button
+Seat 1: 8cb7f957 ($14.93 in chips)
+Seat 2: 23897bd7 ($29.92 in chips)
+Seat 3: 1b498ea1 ($93.11 in chips)
+Seat 4: af8ae04d ($25 in chips)
+Seat 5: f6c9a5ce ($29.99 in chips)
+Seat 6: Hero ($65.65 in chips)
+23897bd7: posts small blind $0.1
+1b498ea1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 8cb7f957 
+Dealt to 23897bd7 
+Dealt to 1b498ea1 
+Dealt to af8ae04d 
+Dealt to f6c9a5ce 
+Dealt to Hero [8c 6h]
+af8ae04d: folds
+f6c9a5ce: folds
+Hero: folds
+8cb7f957: folds
+23897bd7: folds
+Uncalled bet ($0.15) returned to 1b498ea1
+*** SHOWDOWN ***
+1b498ea1 collected $0.2 from pot
+*** SUMMARY ***
+Total pot $0.2
+Seat 1: 8cb7f957 (button) folded before Flop (didn't bet)
+Seat 2: 23897bd7 (small blind) folded before Flop
+Seat 3: 1b498ea1 (big blind) collected ($0.2)
+Seat 4: af8ae04d folded before Flop (didn't bet)
+Seat 5: f6c9a5ce folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+Poker Hand #RC92431594: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:18:00
+Table 'RushAndCash5861' 6-max Seat #1 is the button
+Seat 1: 23897bd7 ($29.82 in chips)
+Seat 2: Hero ($65.65 in chips)
+Seat 3: bc251a6e ($69.76 in chips)
+Seat 4: 8cb7f957 ($14.93 in chips)
+Seat 5: fc7d6eac ($44.85 in chips)
+Seat 6: cea3ade1 ($77.55 in chips)
+Hero: posts small blind $0.1
+bc251a6e: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 23897bd7 
+Dealt to Hero [9d 6h]
+Dealt to bc251a6e 
+Dealt to 8cb7f957 
+Dealt to fc7d6eac 
+Dealt to cea3ade1 
+8cb7f957: raises $0.75 to $1
+fc7d6eac: folds
+cea3ade1: folds
+23897bd7: folds
+Hero: folds
+bc251a6e: folds
+Uncalled bet ($0.75) returned to 8cb7f957
+*** SHOWDOWN ***
+8cb7f957 collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: 23897bd7 (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: bc251a6e (big blind) folded before Flop
+Seat 4: 8cb7f957 collected ($0.6)
+Seat 5: fc7d6eac folded before Flop (didn't bet)
+Seat 6: cea3ade1 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92431623: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:18:04
+Table 'RushAndCash5863' 6-max Seat #1 is the button
+Seat 1: 81ce9558 ($25 in chips)
+Seat 2: 8bf69330 ($57.52 in chips)
+Seat 3: Hero ($65.55 in chips)
+Seat 4: 4832cd4a ($40.96 in chips)
+Seat 5: cee476b8 ($26.27 in chips)
+Seat 6: 41f2e2c ($25 in chips)
+8bf69330: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 81ce9558 
+Dealt to 8bf69330 
+Dealt to Hero [Kh 8h]
+Dealt to 4832cd4a 
+Dealt to cee476b8 
+Dealt to 41f2e2c 
+4832cd4a: folds
+cee476b8: folds
+41f2e2c: folds
+81ce9558: folds
+8bf69330: folds
+Uncalled bet ($0.15) returned to Hero
+*** SHOWDOWN ***
+Hero collected $0.2 from pot
+*** SUMMARY ***
+Total pot $0.2
+Seat 1: 81ce9558 (button) folded before Flop (didn't bet)
+Seat 2: 8bf69330 (small blind) folded before Flop
+Seat 3: Hero (big blind) collected ($0.2)
+Seat 4: 4832cd4a folded before Flop (didn't bet)
+Seat 5: cee476b8 folded before Flop (didn't bet)
+Seat 6: 41f2e2c folded before Flop (didn't bet)
+
+
+Poker Hand #RC92431738: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:18:22
+Table 'RushAndCash5876' 6-max Seat #1 is the button
+Seat 1: 3f35fddc ($69.85 in chips)
+Seat 2: 548e4b41 ($25 in chips)
+Seat 3: f1a461d7 ($29.28 in chips)
+Seat 4: 6fc0f474 ($38.17 in chips)
+Seat 5: 20adcccd ($32.52 in chips)
+Seat 6: Hero ($65.65 in chips)
+548e4b41: posts small blind $0.1
+f1a461d7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 3f35fddc 
+Dealt to 548e4b41 
+Dealt to f1a461d7 
+Dealt to 6fc0f474 
+Dealt to 20adcccd 
+Dealt to Hero [Kh 6h]
+6fc0f474: folds
+20adcccd: folds
+Hero: folds
+3f35fddc: raises $0.38 to $0.63
+548e4b41: folds
+f1a461d7: folds
+Uncalled bet ($0.38) returned to 3f35fddc
+*** SHOWDOWN ***
+3f35fddc collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: 3f35fddc (button) collected ($0.6)
+Seat 2: 548e4b41 (small blind) folded before Flop
+Seat 3: f1a461d7 (big blind) folded before Flop
+Seat 4: 6fc0f474 folded before Flop (didn't bet)
+Seat 5: 20adcccd folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+Poker Hand #RC92431795: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:18:31
+Table 'RushAndCash5882' 6-max Seat #1 is the button
+Seat 1: b738ce1c ($28.37 in chips)
+Seat 2: fcf1a3a6 ($56.87 in chips)
+Seat 3: f262e92f ($26.79 in chips)
+Seat 4: fc7d6eac ($44.5 in chips)
+Seat 5: b9a49d77 ($52.88 in chips)
+Seat 6: Hero ($65.65 in chips)
+fcf1a3a6: posts small blind $0.1
+f262e92f: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to b738ce1c 
+Dealt to fcf1a3a6 
+Dealt to f262e92f 
+Dealt to fc7d6eac 
+Dealt to b9a49d77 
+Dealt to Hero [9s 2c]
+fc7d6eac: folds
+b9a49d77: raises $0.38 to $0.63
+Hero: folds
+b738ce1c: raises $1.24 to $1.87
+fcf1a3a6: folds
+f262e92f: folds
+b9a49d77: folds
+Uncalled bet ($1.24) returned to b738ce1c
+*** SHOWDOWN ***
+b738ce1c collected $1.61 from pot
+*** SUMMARY ***
+Total pot $1.61
+Seat 1: b738ce1c (button) collected ($1.61)
+Seat 2: fcf1a3a6 (small blind) folded before Flop
+Seat 3: f262e92f (big blind) folded before Flop
+Seat 4: fc7d6eac folded before Flop (didn't bet)
+Seat 5: b9a49d77 folded before Flop
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+Poker Hand #RC92431837: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:18:38
+Table 'RushAndCash5886' 6-max Seat #1 is the button
+Seat 1: Hero ($65.65 in chips)
+Seat 2: eda4b4e3 ($55.83 in chips)
+Seat 3: 47a7e245 ($25.57 in chips)
+Seat 4: 8a7c3bbc ($51.86 in chips)
+Seat 5: 1b498ea1 ($93.01 in chips)
+Seat 6: 8b7a5e3a ($25 in chips)
+eda4b4e3: posts small blind $0.1
+47a7e245: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Kd Kc]
+Dealt to eda4b4e3 
+Dealt to 47a7e245 
+Dealt to 8a7c3bbc 
+Dealt to 1b498ea1 
+Dealt to 8b7a5e3a 
+8a7c3bbc: folds
+1b498ea1: folds
+8b7a5e3a: folds
+Hero: raises $0.38 to $0.63
+eda4b4e3: folds
+47a7e245: calls $0.38
+*** FLOP *** [8h Ah Qd]
+47a7e245: checks
+Hero: bets $0.77
+47a7e245: folds
+Uncalled bet ($0.77) returned to Hero
+*** SHOWDOWN ***
+Hero collected $1.36 from pot
+*** SUMMARY ***
+Total pot $1.36
+Board [8h Ah Qd]
+Seat 1: Hero (button) won ($1.36)
+Seat 2: eda4b4e3 (small blind) folded before Flop
+Seat 3: 47a7e245 (big blind) folded on the Flop
+Seat 4: 8a7c3bbc folded before Flop (didn't bet)
+Seat 5: 1b498ea1 folded before Flop (didn't bet)
+Seat 6: 8b7a5e3a folded before Flop (didn't bet)
+
+
+Poker Hand #RC92432022: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:19:03
+Table 'RushAndCash5901' 6-max Seat #1 is the button
+Seat 1: 47a7e245 ($24.94 in chips)
+Seat 2: 81ce9558 ($25.67 in chips)
+Seat 3: eda4b4e3 ($55.63 in chips)
+Seat 4: f262e92f ($26.44 in chips)
+Seat 5: fcf1a3a6 ($57.12 in chips)
+Seat 6: Hero ($66.32 in chips)
+81ce9558: posts small blind $0.1
+eda4b4e3: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 47a7e245 
+Dealt to 81ce9558 
+Dealt to eda4b4e3 
+Dealt to f262e92f 
+Dealt to fcf1a3a6 
+Dealt to Hero [8h 6d]
+f262e92f: folds
+fcf1a3a6: folds
+Hero: folds
+47a7e245: raises $0.38 to $0.63
+81ce9558: raises $1.77 to $2.4
+eda4b4e3: folds
+47a7e245: calls $1.77
+*** FLOP *** [Tc Jc 2s]
+81ce9558: bets $1.8
+47a7e245: calls $1.8
+*** TURN *** [Tc Jc 2s] [3c]
+81ce9558: bets $3.4
+47a7e245: folds
+Uncalled bet ($3.4) returned to 81ce9558
+*** SHOWDOWN ***
+81ce9558 collected $8.65 from pot
+*** SUMMARY ***
+Total pot $8.65
+Board [Tc Jc 2s 3c]
+Seat 1: 47a7e245 (button) folded on the Turn
+Seat 2: 81ce9558 (small blind) won ($8.65)
+Seat 3: eda4b4e3 (big blind) folded before Flop
+Seat 4: f262e92f folded before Flop (didn't bet)
+Seat 5: fcf1a3a6 folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+Poker Hand #RC92432075: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:19:11
+Table 'RushAndCash5905' 6-max Seat #1 is the button
+Seat 1: 1b498ea1 ($92.76 in chips)
+Seat 2: Hero ($66.32 in chips)
+Seat 3: 8b7a5e3a ($25 in chips)
+Seat 4: 23897bd7 ($33.28 in chips)
+Seat 5: 1aadd4c5 ($30.02 in chips)
+Seat 6: b738ce1c ($29.62 in chips)
+Hero: posts small blind $0.1
+8b7a5e3a: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 1b498ea1 
+Dealt to Hero [Td 2h]
+Dealt to 8b7a5e3a 
+Dealt to 23897bd7 
+Dealt to 1aadd4c5 
+Dealt to b738ce1c 
+23897bd7: raises $0.38 to $0.63
+1aadd4c5: folds
+b738ce1c: folds
+1b498ea1: folds
+Hero: folds
+8b7a5e3a: folds
+Uncalled bet ($0.38) returned to 23897bd7
+*** SHOWDOWN ***
+23897bd7 collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: 1b498ea1 (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 8b7a5e3a (big blind) folded before Flop
+Seat 4: 23897bd7 collected ($0.6)
+Seat 5: 1aadd4c5 folded before Flop (didn't bet)
+Seat 6: b738ce1c folded before Flop (didn't bet)
+
+
+Poker Hand #RC92432111: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:19:16
+Table 'RushAndCash5908' 6-max Seat #1 is the button
+Seat 1: Hero ($66.22 in chips)
+Seat 2: a37ca301 ($25 in chips)
+Seat 3: a550d9c7 ($25 in chips)
+Seat 4: fc7d6eac ($44.5 in chips)
+Seat 5: 1aadd4c5 ($30.02 in chips)
+Seat 6: cea3ade1 ($76.95 in chips)
+a37ca301: posts small blind $0.1
+a550d9c7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Th 7d]
+Dealt to a37ca301 
+Dealt to a550d9c7 
+Dealt to fc7d6eac 
+Dealt to 1aadd4c5 
+Dealt to cea3ade1 
+fc7d6eac: folds
+1aadd4c5: raises $0.38 to $0.63
+cea3ade1: folds
+Hero: folds
+a37ca301: folds
+a550d9c7: folds
+Uncalled bet ($0.38) returned to 1aadd4c5
+*** SHOWDOWN ***
+1aadd4c5 collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: a37ca301 (small blind) folded before Flop
+Seat 3: a550d9c7 (big blind) folded before Flop
+Seat 4: fc7d6eac folded before Flop (didn't bet)
+Seat 5: 1aadd4c5 collected ($0.6)
+Seat 6: cea3ade1 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92432138: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:19:20
+Table 'RushAndCash5911' 6-max Seat #1 is the button
+Seat 1: 20adcccd ($31.89 in chips)
+Seat 2: e8bf5096 ($29.63 in chips)
+Seat 3: Hero ($66.22 in chips)
+Seat 4: 41f2e2c ($25 in chips)
+Seat 5: 86a35141 ($71.44 in chips)
+Seat 6: 8b7a5e3a ($25 in chips)
+e8bf5096: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 20adcccd 
+Dealt to e8bf5096 
+Dealt to Hero [5d 4s]
+Dealt to 41f2e2c 
+Dealt to 86a35141 
+Dealt to 8b7a5e3a 
+41f2e2c: folds
+86a35141: folds
+8b7a5e3a: raises $0.38 to $0.63
+20adcccd: folds
+e8bf5096: folds
+Hero: folds
+Uncalled bet ($0.38) returned to 8b7a5e3a
+*** SHOWDOWN ***
+8b7a5e3a collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: 20adcccd (button) folded before Flop (didn't bet)
+Seat 2: e8bf5096 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: 41f2e2c folded before Flop (didn't bet)
+Seat 5: 86a35141 folded before Flop (didn't bet)
+Seat 6: 8b7a5e3a collected ($0.6)
+
+
+Poker Hand #RC92432170: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:19:24
+Table 'RushAndCash5916' 6-max Seat #1 is the button
+Seat 1: d88dd0db ($25.27 in chips)
+Seat 2: 86a35141 ($71.44 in chips)
+Seat 3: b9a49d77 ($52.25 in chips)
+Seat 4: Hero ($65.97 in chips)
+Seat 5: cb222af8 ($65.07 in chips)
+Seat 6: 41f2e2c ($25 in chips)
+86a35141: posts small blind $0.1
+b9a49d77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to d88dd0db 
+Dealt to 86a35141 
+Dealt to b9a49d77 
+Dealt to Hero [Jh 7h]
+Dealt to cb222af8 
+Dealt to 41f2e2c 
+Hero: folds
+cb222af8: raises $0.38 to $0.63
+41f2e2c: folds
+d88dd0db: calls $0.63
+86a35141: folds
+b9a49d77: folds
+*** FLOP *** [Qd Kc 5c]
+cb222af8: checks
+d88dd0db: checks
+*** TURN *** [Qd Kc 5c] [6h]
+cb222af8: bets $0.9
+d88dd0db: folds
+Uncalled bet ($0.9) returned to cb222af8
+*** SHOWDOWN ***
+cb222af8 collected $1.61 from pot
+*** SUMMARY ***
+Total pot $1.61
+Board [Qd Kc 5c 6h]
+Seat 1: d88dd0db (button) folded on the Turn
+Seat 2: 86a35141 (small blind) folded before Flop
+Seat 3: b9a49d77 (big blind) folded before Flop
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: cb222af8 won ($1.61)
+Seat 6: 41f2e2c folded before Flop (didn't bet)
+
+
+Poker Hand #RC92432200: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:19:28
+Table 'RushAndCash5920' 6-max Seat #1 is the button
+Seat 1: 41f2e2c ($25 in chips)
+Seat 2: af8ae04d ($25 in chips)
+Seat 3: 86a35141 ($71.34 in chips)
+Seat 4: f6c9a5ce ($31.29 in chips)
+Seat 5: Hero ($65.97 in chips)
+Seat 6: 23897bd7 ($33.63 in chips)
+af8ae04d: posts small blind $0.1
+86a35141: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 41f2e2c 
+Dealt to af8ae04d 
+Dealt to 86a35141 
+Dealt to f6c9a5ce 
+Dealt to Hero [Qh 5d]
+Dealt to 23897bd7 
+f6c9a5ce: folds
+Hero: folds
+23897bd7: folds
+41f2e2c: raises $0.5 to $0.75
+af8ae04d: folds
+86a35141: folds
+Uncalled bet ($0.5) returned to 41f2e2c
+*** SHOWDOWN ***
+41f2e2c collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: 41f2e2c (button) collected ($0.6)
+Seat 2: af8ae04d (small blind) folded before Flop
+Seat 3: 86a35141 (big blind) folded before Flop
+Seat 4: f6c9a5ce folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: 23897bd7 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92432223: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:19:31
+Table 'RushAndCash5922' 6-max Seat #1 is the button
+Seat 1: cda2e571 ($66.52 in chips)
+Seat 2: f262e92f ($26.54 in chips)
+Seat 3: 68ad306d ($24.47 in chips)
+Seat 4: 8cb7f957 ($15.84 in chips)
+Seat 5: Hero ($65.97 in chips)
+Seat 6: cea3ade1 ($76.95 in chips)
+f262e92f: posts small blind $0.1
+68ad306d: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to cda2e571 
+Dealt to f262e92f 
+Dealt to 68ad306d 
+Dealt to 8cb7f957 
+Dealt to Hero [Jd 7d]
+Dealt to cea3ade1 
+8cb7f957: folds
+Hero: folds
+cea3ade1: raises $0.38 to $0.63
+cda2e571: folds
+f262e92f: folds
+68ad306d: calls $0.38
+*** FLOP *** [9h 9d 8c]
+68ad306d: checks
+cea3ade1: bets $0.5
+68ad306d: calls $0.5
+*** TURN *** [9h 9d 8c] [4s]
+68ad306d: checks
+cea3ade1: checks
+*** RIVER *** [9h 9d 8c 4s] [9c]
+68ad306d: bets $1.12
+cea3ade1: folds
+Uncalled bet ($1.12) returned to 68ad306d
+*** SHOWDOWN ***
+68ad306d collected $2.36 from pot
+*** SUMMARY ***
+Total pot $2.36
+Board [9h 9d 8c 4s 9c]
+Seat 1: cda2e571 (button) folded before Flop (didn't bet)
+Seat 2: f262e92f (small blind) folded before Flop
+Seat 3: 68ad306d (big blind) won ($2.36)
+Seat 4: 8cb7f957 folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: cea3ade1 folded on the River
+
+
+Poker Hand #RC92432264: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:19:36
+Table 'RushAndCash5926' 6-max Seat #1 is the button
+Seat 1: 548e4b41 ($25 in chips)
+Seat 2: 8565d9b9 ($35.39 in chips)
+Seat 3: 1b498ea1 ($92.66 in chips)
+Seat 4: Hero ($65.97 in chips)
+Seat 5: f6c9a5ce ($31.29 in chips)
+Seat 6: bc4be886 ($25 in chips)
+8565d9b9: posts small blind $0.1
+1b498ea1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 548e4b41 
+Dealt to 8565d9b9 
+Dealt to 1b498ea1 
+Dealt to Hero [Th 5s]
+Dealt to f6c9a5ce 
+Dealt to bc4be886 
+Hero: folds
+f6c9a5ce: folds
+bc4be886: raises $0.5 to $0.75
+548e4b41: folds
+8565d9b9: folds
+1b498ea1: folds
+Uncalled bet ($0.5) returned to bc4be886
+*** SHOWDOWN ***
+bc4be886 collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: 548e4b41 (button) folded before Flop (didn't bet)
+Seat 2: 8565d9b9 (small blind) folded before Flop
+Seat 3: 1b498ea1 (big blind) folded before Flop
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: f6c9a5ce folded before Flop (didn't bet)
+Seat 6: bc4be886 collected ($0.6)
+
+
+Poker Hand #RC92432287: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:19:39
+Table 'RushAndCash5928' 6-max Seat #1 is the button
+Seat 1: 86a35141 ($71.09 in chips)
+Seat 2: 8b7a5e3a ($25.35 in chips)
+Seat 3: Hero ($65.97 in chips)
+Seat 4: cee476b8 ($27.53 in chips)
+Seat 5: 1aadd4c5 ($30.27 in chips)
+Seat 6: f62e1de3 ($42.33 in chips)
+8b7a5e3a: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 86a35141 
+Dealt to 8b7a5e3a 
+Dealt to Hero [Qh 9h]
+Dealt to cee476b8 
+Dealt to 1aadd4c5 
+Dealt to f62e1de3 
+cee476b8: raises $0.5 to $0.75
+1aadd4c5: folds
+f62e1de3: folds
+86a35141: folds
+8b7a5e3a: folds
+Hero: calls $0.5
+*** FLOP *** [9d 7d Ad]
+Hero: checks
+cee476b8: checks
+*** TURN *** [9d 7d Ad] [5d]
+Hero: checks
+cee476b8: checks
+*** RIVER *** [9d 7d Ad 5d] [Kd]
+Hero: checks
+cee476b8: checks
+Hero: shows [Qh 9h] (Ace High Flush)
+cee476b8: shows [Th Kh] (Ace High Flush)
+*** SHOWDOWN ***
+cee476b8 collected $0.8 from pot
+Hero collected $0.8 from pot
+*** SUMMARY ***
+Total pot $1.6
+Board [9d 7d Ad 5d Kd]
+Seat 1: 86a35141 (button) folded before Flop (didn't bet)
+Seat 2: 8b7a5e3a (small blind) folded before Flop
+Seat 3: Hero (big blind) showed [Qh 9h] and won ($0.8) with Ace High Flush
+Seat 4: cee476b8 showed [Kh Th] and won ($0.8) with Ace High Flush
+Seat 5: 1aadd4c5 folded before Flop (didn't bet)
+Seat 6: f62e1de3 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92432556: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:20:17
+Table 'RushAndCash5952' 6-max Seat #1 is the button
+Seat 1: 4c337cf2 ($25.93 in chips)
+Seat 2: cee476b8 ($27.54 in chips)
+Seat 3: a2daa5f3 ($25 in chips)
+Seat 4: Hero ($65.98 in chips)
+Seat 5: 20adcccd ($31.01 in chips)
+Seat 6: bde77059 ($39.98 in chips)
+cee476b8: posts small blind $0.1
+a2daa5f3: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 4c337cf2 
+Dealt to cee476b8 
+Dealt to a2daa5f3 
+Dealt to Hero [Jc 9d]
+Dealt to 20adcccd 
+Dealt to bde77059 
+Hero: folds
+20adcccd: folds
+bde77059: folds
+4c337cf2: folds
+cee476b8: raises $0.5 to $0.75
+a2daa5f3: folds
+Uncalled bet ($0.5) returned to cee476b8
+*** SHOWDOWN ***
+cee476b8 collected $0.5 from pot
+*** SUMMARY ***
+Total pot $0.5
+Seat 1: 4c337cf2 (button) folded before Flop (didn't bet)
+Seat 2: cee476b8 (small blind) collected ($0.5)
+Seat 3: a2daa5f3 (big blind) folded before Flop
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: 20adcccd folded before Flop (didn't bet)
+Seat 6: bde77059 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92432580: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:20:20
+Table 'RushAndCash5955' 6-max Seat #1 is the button
+Seat 1: 8565d9b9 ($35.39 in chips)
+Seat 2: Hero ($65.98 in chips)
+Seat 3: 1aadd4c5 ($29.92 in chips)
+Seat 4: cea3ade1 ($75.82 in chips)
+Seat 5: c989b2a1 ($20.44 in chips)
+Seat 6: 68ad306d ($25.59 in chips)
+Hero: posts small blind $0.1
+1aadd4c5: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 8565d9b9 
+Dealt to Hero [6s 2h]
+Dealt to 1aadd4c5 
+Dealt to cea3ade1 
+Dealt to c989b2a1 
+Dealt to 68ad306d 
+cea3ade1: folds
+c989b2a1: raises $0.38 to $0.63
+68ad306d: folds
+8565d9b9: folds
+Hero: folds
+1aadd4c5: folds
+Uncalled bet ($0.38) returned to c989b2a1
+*** SHOWDOWN ***
+c989b2a1 collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: 8565d9b9 (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 1aadd4c5 (big blind) folded before Flop
+Seat 4: cea3ade1 folded before Flop (didn't bet)
+Seat 5: c989b2a1 collected ($0.6)
+Seat 6: 68ad306d folded before Flop (didn't bet)
+
+
+Poker Hand #RC92432605: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:20:24
+Table 'RushAndCash5958' 6-max Seat #1 is the button
+Seat 1: Hero ($65.88 in chips)
+Seat 2: 9aa38475 ($61.11 in chips)
+Seat 3: 23897bd7 ($57.25 in chips)
+Seat 4: 8a7c3bbc ($52.61 in chips)
+Seat 5: 8b7a5e3a ($25 in chips)
+Seat 6: f1a461d7 ($30.15 in chips)
+9aa38475: posts small blind $0.1
+23897bd7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [8c 6d]
+Dealt to 9aa38475 
+Dealt to 23897bd7 
+Dealt to 8a7c3bbc 
+Dealt to 8b7a5e3a 
+Dealt to f1a461d7 
+8a7c3bbc: folds
+8b7a5e3a: folds
+f1a461d7: folds
+Hero: folds
+9aa38475: folds
+Uncalled bet ($0.15) returned to 23897bd7
+*** SHOWDOWN ***
+23897bd7 collected $0.2 from pot
+*** SUMMARY ***
+Total pot $0.2
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: 9aa38475 (small blind) folded before Flop
+Seat 3: 23897bd7 (big blind) collected ($0.2)
+Seat 4: 8a7c3bbc folded before Flop (didn't bet)
+Seat 5: 8b7a5e3a folded before Flop (didn't bet)
+Seat 6: f1a461d7 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92432629: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:20:28
+Table 'RushAndCash5962' 6-max Seat #1 is the button
+Seat 1: 8cb7f957 ($3.84 in chips)
+Seat 2: 20adcccd ($31.01 in chips)
+Seat 3: f1a461d7 ($30.15 in chips)
+Seat 4: d88dd0db ($25 in chips)
+Seat 5: Hero ($65.88 in chips)
+Seat 6: 9aa38475 ($61.01 in chips)
+20adcccd: posts small blind $0.1
+f1a461d7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 8cb7f957 
+Dealt to 20adcccd 
+Dealt to f1a461d7 
+Dealt to d88dd0db 
+Dealt to Hero [As Qh]
+Dealt to 9aa38475 
+d88dd0db: folds
+Hero: raises $0.38 to $0.63
+9aa38475: folds
+8cb7f957: folds
+20adcccd: folds
+f1a461d7: calls $0.38
+*** FLOP *** [6h 5h 9c]
+f1a461d7: checks
+Hero: bets $1.1
+f1a461d7: calls $1.1
+*** TURN *** [6h 5h 9c] [2d]
+f1a461d7: checks
+Hero: checks
+*** RIVER *** [6h 5h 9c 2d] [Jh]
+f1a461d7: checks
+Hero: checks
+f1a461d7: shows [8h 8s] (Pair of Eights)
+Hero: shows [As Qh] (Ace-High)
+*** SHOWDOWN ***
+f1a461d7 collected $3.56 from pot
+*** SUMMARY ***
+Total pot $3.56
+Board [6h 5h 9c 2d Jh]
+Seat 1: 8cb7f957 (button) folded before Flop (didn't bet)
+Seat 2: 20adcccd (small blind) folded before Flop
+Seat 3: f1a461d7 (big blind) showed [8s 8h] and won ($3.56) with Pair of Eights
+Seat 4: d88dd0db folded before Flop (didn't bet)
+Seat 5: Hero showed [As Qh] and lost with Ace-High
+Seat 6: 9aa38475 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92432998: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:21:23
+Table 'RushAndCash5996' 6-max Seat #1 is the button
+Seat 1: Hero ($64.15 in chips)
+Seat 2: 35efc456 ($21.2 in chips)
+Seat 3: bc4be886 ($25 in chips)
+Seat 4: 6c0f2d78 ($48.23 in chips)
+Seat 5: 6fc0f474 ($37.86 in chips)
+Seat 6: f1a461d7 ($31.81 in chips)
+35efc456: posts small blind $0.1
+bc4be886: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Qs 9c]
+Dealt to 35efc456 
+Dealt to bc4be886 
+Dealt to 6c0f2d78 
+Dealt to 6fc0f474 
+Dealt to f1a461d7 
+6c0f2d78: folds
+6fc0f474: folds
+f1a461d7: folds
+Hero: folds
+35efc456: folds
+Uncalled bet ($0.15) returned to bc4be886
+*** SHOWDOWN ***
+bc4be886 collected $0.2 from pot
+*** SUMMARY ***
+Total pot $0.2
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: 35efc456 (small blind) folded before Flop
+Seat 3: bc4be886 (big blind) collected ($0.2)
+Seat 4: 6c0f2d78 folded before Flop (didn't bet)
+Seat 5: 6fc0f474 folded before Flop (didn't bet)
+Seat 6: f1a461d7 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92433028: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:21:28
+Table 'RushAndCash5999' 6-max Seat #1 is the button
+Seat 1: e8bf5096 ($30.03 in chips)
+Seat 2: d53a2d48 ($25.45 in chips)
+Seat 3: 6c0f2d78 ($48.23 in chips)
+Seat 4: 1aadd4c5 ($32.26 in chips)
+Seat 5: 8a7c3bbc ($52.26 in chips)
+Seat 6: Hero ($64.15 in chips)
+d53a2d48: posts small blind $0.1
+6c0f2d78: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to e8bf5096 
+Dealt to d53a2d48 
+Dealt to 6c0f2d78 
+Dealt to 1aadd4c5 
+Dealt to 8a7c3bbc 
+Dealt to Hero [Kh 9c]
+1aadd4c5: folds
+8a7c3bbc: folds
+Hero: folds
+e8bf5096: raises $0.38 to $0.63
+d53a2d48: folds
+6c0f2d78: folds
+Uncalled bet ($0.38) returned to e8bf5096
+*** SHOWDOWN ***
+e8bf5096 collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: e8bf5096 (button) collected ($0.6)
+Seat 2: d53a2d48 (small blind) folded before Flop
+Seat 3: 6c0f2d78 (big blind) folded before Flop
+Seat 4: 1aadd4c5 folded before Flop (didn't bet)
+Seat 5: 8a7c3bbc folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+Poker Hand #RC92433051: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:21:32
+Table 'RushAndCash6002' 6-max Seat #1 is the button
+Seat 1: bc4be886 ($25.1 in chips)
+Seat 2: Hero ($64.15 in chips)
+Seat 3: c989b2a1 ($20.79 in chips)
+Seat 4: 81ce9558 ($29.54 in chips)
+Seat 5: 1aadd4c5 ($32.26 in chips)
+Seat 6: 64725a90 ($29.88 in chips)
+Hero: posts small blind $0.1
+c989b2a1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to bc4be886 
+Dealt to Hero [8s 6c]
+Dealt to c989b2a1 
+Dealt to 81ce9558 
+Dealt to 1aadd4c5 
+Dealt to 64725a90 
+81ce9558: folds
+1aadd4c5: raises $0.38 to $0.63
+64725a90: folds
+bc4be886: folds
+Hero: folds
+c989b2a1: raises $1.99 to $2.62
+1aadd4c5: folds
+Uncalled bet ($1.99) returned to c989b2a1
+*** SHOWDOWN ***
+c989b2a1 collected $1.36 from pot
+*** SUMMARY ***
+Total pot $1.36
+Seat 1: bc4be886 (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: c989b2a1 (big blind) collected ($1.36)
+Seat 4: 81ce9558 folded before Flop (didn't bet)
+Seat 5: 1aadd4c5 folded before Flop
+Seat 6: 64725a90 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92433140: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:21:46
+Table 'RushAndCash6010' 6-max Seat #1 is the button
+Seat 1: 8b7a5e3a ($25 in chips)
+Seat 2: 485c3fa2 ($30.45 in chips)
+Seat 3: Hero ($64.05 in chips)
+Seat 4: 6c0f2d78 ($47.98 in chips)
+Seat 5: a2daa5f3 ($26.2 in chips)
+Seat 6: bc4be886 ($25.1 in chips)
+485c3fa2: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 8b7a5e3a 
+Dealt to 485c3fa2 
+Dealt to Hero [Qd Ts]
+Dealt to 6c0f2d78 
+Dealt to a2daa5f3 
+Dealt to bc4be886 
+6c0f2d78: folds
+a2daa5f3: folds
+bc4be886: folds
+8b7a5e3a: raises $0.38 to $0.63
+485c3fa2: folds
+Hero: calls $0.38
+*** FLOP *** [Th Jh 3d]
+Hero: checks
+8b7a5e3a: checks
+*** TURN *** [Th Jh 3d] [Ac]
+Hero: checks
+8b7a5e3a: checks
+*** RIVER *** [Th Jh 3d Ac] [9h]
+Hero: checks
+8b7a5e3a: checks
+Hero: shows [Qd Ts] (Pair of Tens)
+8b7a5e3a: shows [8s 8d] (Pair of Eights)
+*** SHOWDOWN ***
+Hero collected $1.36 from pot
+*** SUMMARY ***
+Total pot $1.36
+Board [Th Jh 3d Ac 9h]
+Seat 1: 8b7a5e3a (button) showed [8s 8d] and lost with Pair of Eights
+Seat 2: 485c3fa2 (small blind) folded before Flop
+Seat 3: Hero (big blind) showed [Qd Ts] and won ($1.36) with Pair of Tens
+Seat 4: 6c0f2d78 folded before Flop (didn't bet)
+Seat 5: a2daa5f3 folded before Flop (didn't bet)
+Seat 6: bc4be886 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92433408: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:22:22
+Table 'RushAndCash6036' 6-max Seat #1 is the button
+Seat 1: 485c3fa2 ($30.1 in chips)
+Seat 2: cea3ade1 ($69.59 in chips)
+Seat 3: 23897bd7 ($57.25 in chips)
+Seat 4: 8bf69330 ($51.96 in chips)
+Seat 5: dd20f9bc ($39.68 in chips)
+Seat 6: Hero ($64.72 in chips)
+cea3ade1: posts small blind $0.1
+23897bd7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 485c3fa2 
+Dealt to cea3ade1 
+Dealt to 23897bd7 
+Dealt to 8bf69330 
+Dealt to dd20f9bc 
+Dealt to Hero [9h 2h]
+8bf69330: folds
+dd20f9bc: raises $0.38 to $0.63
+Hero: folds
+485c3fa2: folds
+cea3ade1: folds
+23897bd7: folds
+Uncalled bet ($0.38) returned to dd20f9bc
+*** SHOWDOWN ***
+dd20f9bc collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: 485c3fa2 (button) folded before Flop (didn't bet)
+Seat 2: cea3ade1 (small blind) folded before Flop
+Seat 3: 23897bd7 (big blind) folded before Flop
+Seat 4: 8bf69330 folded before Flop (didn't bet)
+Seat 5: dd20f9bc collected ($0.6)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+Poker Hand #RC92433444: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:22:27
+Table 'RushAndCash6039' 6-max Seat #1 is the button
+Seat 1: Hero ($64.72 in chips)
+Seat 2: 8bf69330 ($51.96 in chips)
+Seat 3: fc7d6eac ($50.8 in chips)
+Seat 4: cee476b8 ($26.41 in chips)
+Seat 5: 4c337cf2 ($25.23 in chips)
+Seat 6: bde77059 ($39.5 in chips)
+8bf69330: posts small blind $0.1
+fc7d6eac: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Qc 6d]
+Dealt to 8bf69330 
+Dealt to fc7d6eac 
+Dealt to cee476b8 
+Dealt to 4c337cf2 
+Dealt to bde77059 
+cee476b8: folds
+4c337cf2: folds
+bde77059: folds
+Hero: folds
+8bf69330: folds
+Uncalled bet ($0.15) returned to fc7d6eac
+*** SHOWDOWN ***
+fc7d6eac collected $0.2 from pot
+*** SUMMARY ***
+Total pot $0.2
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: 8bf69330 (small blind) folded before Flop
+Seat 3: fc7d6eac (big blind) collected ($0.2)
+Seat 4: cee476b8 folded before Flop (didn't bet)
+Seat 5: 4c337cf2 folded before Flop (didn't bet)
+Seat 6: bde77059 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92433474: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:22:31
+Table 'RushAndCash6042' 6-max Seat #1 is the button
+Seat 1: bde77059 ($39.5 in chips)
+Seat 2: Hero ($64.72 in chips)
+Seat 3: 8565d9b9 ($35.04 in chips)
+Seat 4: a37ca301 ($29.64 in chips)
+Seat 5: 485c3fa2 ($30.1 in chips)
+Seat 6: 3f35fddc ($65.82 in chips)
+Hero: posts small blind $0.1
+8565d9b9: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to bde77059 
+Dealt to Hero [7h 2d]
+Dealt to 8565d9b9 
+Dealt to a37ca301 
+Dealt to 485c3fa2 
+Dealt to 3f35fddc 
+a37ca301: folds
+485c3fa2: folds
+3f35fddc: folds
+bde77059: raises $0.38 to $0.63
+Hero: folds
+8565d9b9: folds
+Uncalled bet ($0.38) returned to bde77059
+*** SHOWDOWN ***
+bde77059 collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: bde77059 (button) collected ($0.6)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 8565d9b9 (big blind) folded before Flop
+Seat 4: a37ca301 folded before Flop (didn't bet)
+Seat 5: 485c3fa2 folded before Flop (didn't bet)
+Seat 6: 3f35fddc folded before Flop (didn't bet)
+
+
+Poker Hand #RC92433499: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:22:35
+Table 'RushAndCash6044' 6-max Seat #1 is the button
+Seat 1: cee476b8 ($26.41 in chips)
+Seat 2: 6c0f2d78 ($47.13 in chips)
+Seat 3: f1a461d7 ($34.34 in chips)
+Seat 4: a23d1dde ($25 in chips)
+Seat 5: 4b5eb8eb ($25 in chips)
+Seat 6: Hero ($64.62 in chips)
+6c0f2d78: posts small blind $0.1
+f1a461d7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to cee476b8 
+Dealt to 6c0f2d78 
+Dealt to f1a461d7 
+Dealt to a23d1dde 
+Dealt to 4b5eb8eb 
+Dealt to Hero [Th 7h]
+a23d1dde: folds
+4b5eb8eb: folds
+Hero: folds
+cee476b8: raises $0.38 to $0.63
+6c0f2d78: folds
+f1a461d7: calls $0.38
+*** FLOP *** [Qh 3h 4c]
+f1a461d7: checks
+cee476b8: bets $1.1
+f1a461d7: folds
+Uncalled bet ($1.1) returned to cee476b8
+*** SHOWDOWN ***
+cee476b8 collected $1.36 from pot
+*** SUMMARY ***
+Total pot $1.36
+Board [Qh 3h 4c]
+Seat 1: cee476b8 (button) won ($1.36)
+Seat 2: 6c0f2d78 (small blind) folded before Flop
+Seat 3: f1a461d7 (big blind) folded on the Flop
+Seat 4: a23d1dde folded before Flop (didn't bet)
+Seat 5: 4b5eb8eb folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+Poker Hand #RC92433533: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:22:39
+Table 'RushAndCash6048' 6-max Seat #1 is the button
+Seat 1: f6c9a5ce ($30.25 in chips)
+Seat 2: 4832cd4a ($36 in chips)
+Seat 3: Hero ($64.62 in chips)
+Seat 4: cb222af8 ($63.29 in chips)
+Seat 5: 1b498ea1 ($88.69 in chips)
+Seat 6: 6219fb0f ($102.62 in chips)
+4832cd4a: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to f6c9a5ce 
+Dealt to 4832cd4a 
+Dealt to Hero [Qc 6d]
+Dealt to cb222af8 
+Dealt to 1b498ea1 
+Dealt to 6219fb0f 
+cb222af8: folds
+1b498ea1: folds
+6219fb0f: folds
+f6c9a5ce: raises $0.38 to $0.63
+4832cd4a: raises $1.87 to $2.5
+Hero: folds
+f6c9a5ce: calls $1.87
+*** FLOP *** [2s 3s Td]
+4832cd4a: checks
+f6c9a5ce: checks
+*** TURN *** [2s 3s Td] [9s]
+4832cd4a: checks
+f6c9a5ce: bets $2.7
+4832cd4a: folds
+Uncalled bet ($2.7) returned to f6c9a5ce
+*** SHOWDOWN ***
+f6c9a5ce collected $5.25 from pot
+*** SUMMARY ***
+Total pot $5.25
+Board [2s 3s Td 9s]
+Seat 1: f6c9a5ce (button) won ($5.25)
+Seat 2: 4832cd4a (small blind) folded on the Turn
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: cb222af8 folded before Flop (didn't bet)
+Seat 5: 1b498ea1 folded before Flop (didn't bet)
+Seat 6: 6219fb0f folded before Flop (didn't bet)
+
+
+Poker Hand #RC92433567: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:22:44
+Table 'RushAndCash6051' 6-max Seat #1 is the button
+Seat 1: fcf1a3a6 ($57.62 in chips)
+Seat 2: eda4b4e3 ($47.12 in chips)
+Seat 3: 65743f16 ($35.9 in chips)
+Seat 4: a37ca301 ($29.64 in chips)
+Seat 5: Hero ($64.37 in chips)
+Seat 6: dd20f9bc ($40.03 in chips)
+eda4b4e3: posts small blind $0.1
+65743f16: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to fcf1a3a6 
+Dealt to eda4b4e3 
+Dealt to 65743f16 
+Dealt to a37ca301 
+Dealt to Hero [Td 7d]
+Dealt to dd20f9bc 
+a37ca301: raises $0.5 to $0.75
+Hero: folds
+dd20f9bc: folds
+fcf1a3a6: calls $0.75
+eda4b4e3: folds
+65743f16: calls $0.5
+*** FLOP *** [6d 6s 3c]
+65743f16: checks
+a37ca301: bets $0.8
+fcf1a3a6: calls $0.8
+65743f16: folds
+*** TURN *** [6d 6s 3c] [7h]
+a37ca301: checks
+fcf1a3a6: bets $2
+a37ca301: raises $3.42 to $5.42
+fcf1a3a6: folds
+Uncalled bet ($3.42) returned to a37ca301
+*** SHOWDOWN ***
+a37ca301 collected $7.95 from pot
+*** SUMMARY ***
+Total pot $7.95
+Board [6d 6s 3c 7h]
+Seat 1: fcf1a3a6 (button) folded on the Turn
+Seat 2: eda4b4e3 (small blind) folded before Flop
+Seat 3: 65743f16 (big blind) folded on the Flop
+Seat 4: a37ca301 won ($7.95)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: dd20f9bc folded before Flop (didn't bet)
+
+
+Poker Hand #RC92433592: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:22:48
+Table 'RushAndCash6054' 6-max Seat #1 is the button
+Seat 1: eda4b4e3 ($47.02 in chips)
+Seat 2: 66910072 ($29.44 in chips)
+Seat 3: a23d1dde ($25 in chips)
+Seat 4: 47a7e245 ($28.69 in chips)
+Seat 5: 12ffc28a ($95.16 in chips)
+Seat 6: Hero ($64.37 in chips)
+66910072: posts small blind $0.1
+a23d1dde: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to eda4b4e3 
+Dealt to 66910072 
+Dealt to a23d1dde 
+Dealt to 47a7e245 
+Dealt to 12ffc28a 
+Dealt to Hero [Qs 6s]
+47a7e245: folds
+12ffc28a: folds
+Hero: folds
+eda4b4e3: raises $0.38 to $0.63
+66910072: raises $1.77 to $2.4
+a23d1dde: folds
+eda4b4e3: calls $1.77
+*** FLOP *** [Kc Ts 5h]
+66910072: bets $1.7
+eda4b4e3: calls $1.7
+*** TURN *** [Kc Ts 5h] [8d]
+66910072: checks
+eda4b4e3: bets $4.8
+66910072: calls $4.8
+*** RIVER *** [Kc Ts 5h 8d] [4d]
+66910072: checks
+eda4b4e3: bets $38.12 and is all-in
+66910072: calls $20.54 and is all-in
+Uncalled bet ($17.58) returned to eda4b4e3
+eda4b4e3: shows [Jd 9d] (King-High)
+66910072: shows [Qc Kd] (Pair of Kings)
+*** SHOWDOWN ***
+66910072 collected $59.13 from pot
+*** SUMMARY ***
+Total pot $59.13
+Board [Kc Ts 5h 8d 4d]
+Seat 1: eda4b4e3 (button) showed [Jd 9d] and lost with King-High
+Seat 2: 66910072 (small blind) showed [Kd Qc] and won ($59.13) with Pair of Kings
+Seat 3: a23d1dde (big blind) folded before Flop
+Seat 4: 47a7e245 folded before Flop (didn't bet)
+Seat 5: 12ffc28a folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+Poker Hand #RC92433637: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:22:54
+Table 'RushAndCash6058' 6-max Seat #1 is the button
+Seat 1: 20adcccd ($35.96 in chips)
+Seat 2: e8bf5096 ($36.47 in chips)
+Seat 3: 78aab05e ($25 in chips)
+Seat 4: Hero ($64.37 in chips)
+Seat 5: 8bf69330 ($51.86 in chips)
+Seat 6: 3cbe3050 ($25 in chips)
+e8bf5096: posts small blind $0.1
+78aab05e: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 20adcccd 
+Dealt to e8bf5096 
+Dealt to 78aab05e 
+Dealt to Hero [Qh 8s]
+Dealt to 8bf69330 
+Dealt to 3cbe3050 
+Hero: folds
+8bf69330: raises $0.5 to $0.75
+3cbe3050: folds
+20adcccd: folds
+e8bf5096: folds
+78aab05e: calls $0.5
+*** FLOP *** [2d 8d Ah]
+78aab05e: checks
+8bf69330: checks
+*** TURN *** [2d 8d Ah] [As]
+78aab05e: checks
+8bf69330: checks
+*** RIVER *** [2d 8d Ah As] [Ad]
+78aab05e: checks
+8bf69330: checks
+78aab05e: shows [Jc Ks] (Three Aces)
+8bf69330: shows [5h 5d] (Aces Full over Fives)
+*** SHOWDOWN ***
+8bf69330 collected $1.6 from pot
+*** SUMMARY ***
+Total pot $1.6
+Board [2d 8d Ah As Ad]
+Seat 1: 20adcccd (button) folded before Flop (didn't bet)
+Seat 2: e8bf5096 (small blind) folded before Flop
+Seat 3: 78aab05e (big blind) showed [Ks Jc] and lost with Three Aces
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: 8bf69330 showed [5h 5d] and won ($1.6) with Aces Full over Fives
+Seat 6: 3cbe3050 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92433674: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:22:58
+Table 'RushAndCash6062' 6-max Seat #1 is the button
+Seat 1: 8b7a5e3a ($25 in chips)
+Seat 2: Hero ($64.37 in chips)
+Seat 3: 3cbe3050 ($25 in chips)
+Seat 4: 41f2e2c ($25 in chips)
+Seat 5: bde77059 ($39.85 in chips)
+Seat 6: cee476b8 ($27.08 in chips)
+Hero: posts small blind $0.1
+3cbe3050: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 8b7a5e3a 
+Dealt to Hero [8s 4d]
+Dealt to 3cbe3050 
+Dealt to 41f2e2c 
+Dealt to bde77059 
+Dealt to cee476b8 
+41f2e2c: folds
+bde77059: folds
+cee476b8: folds
+8b7a5e3a: raises $0.38 to $0.63
+Hero: folds
+3cbe3050: calls $0.38
+*** FLOP *** [8d 3s 3h]
+3cbe3050: checks
+8b7a5e3a: bets $0.5
+3cbe3050: raises $1.25 to $1.75
+8b7a5e3a: folds
+Uncalled bet ($1.25) returned to 3cbe3050
+*** SHOWDOWN ***
+3cbe3050 collected $2.36 from pot
+*** SUMMARY ***
+Total pot $2.36
+Board [8d 3s 3h]
+Seat 1: 8b7a5e3a (button) folded on the Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 3cbe3050 (big blind) won ($2.36)
+Seat 4: 41f2e2c folded before Flop (didn't bet)
+Seat 5: bde77059 folded before Flop (didn't bet)
+Seat 6: cee476b8 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92433709: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:23:03
+Table 'RushAndCash6065' 6-max Seat #1 is the button
+Seat 1: Hero ($64.27 in chips)
+Seat 2: a23d1dde ($25 in chips)
+Seat 3: 86a35141 ($69.74 in chips)
+Seat 4: f62e1de3 ($42.42 in chips)
+Seat 5: cee476b8 ($27.08 in chips)
+Seat 6: 41f2e2c ($25 in chips)
+a23d1dde: posts small blind $0.1
+86a35141: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Qh 5c]
+Dealt to a23d1dde 
+Dealt to 86a35141 
+Dealt to f62e1de3 
+Dealt to cee476b8 
+Dealt to 41f2e2c 
+f62e1de3: folds
+cee476b8: folds
+41f2e2c: folds
+Hero: folds
+a23d1dde: folds
+Uncalled bet ($0.15) returned to 86a35141
+*** SHOWDOWN ***
+86a35141 collected $0.2 from pot
+*** SUMMARY ***
+Total pot $0.2
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: a23d1dde (small blind) folded before Flop
+Seat 3: 86a35141 (big blind) collected ($0.2)
+Seat 4: f62e1de3 folded before Flop (didn't bet)
+Seat 5: cee476b8 folded before Flop (didn't bet)
+Seat 6: 41f2e2c folded before Flop (didn't bet)
+
+
+Poker Hand #RC92433734: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:23:06
+Table 'RushAndCash6067' 6-max Seat #1 is the button
+Seat 1: cea3ade1 ($69.14 in chips)
+Seat 2: 3f35fddc ($65.92 in chips)
+Seat 3: cee476b8 ($27.08 in chips)
+Seat 4: e8bf5096 ($36.37 in chips)
+Seat 5: f1a461d7 ($33.61 in chips)
+Seat 6: Hero ($64.27 in chips)
+3f35fddc: posts small blind $0.1
+cee476b8: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to cea3ade1 
+Dealt to 3f35fddc 
+Dealt to cee476b8 
+Dealt to e8bf5096 
+Dealt to f1a461d7 
+Dealt to Hero [Ks 4d]
+e8bf5096: folds
+f1a461d7: folds
+Hero: folds
+cea3ade1: raises $0.38 to $0.63
+3f35fddc: folds
+cee476b8: folds
+Uncalled bet ($0.38) returned to cea3ade1
+*** SHOWDOWN ***
+cea3ade1 collected $0.6 from pot
+*** SUMMARY ***
+Total pot $0.6
+Seat 1: cea3ade1 (button) collected ($0.6)
+Seat 2: 3f35fddc (small blind) folded before Flop
+Seat 3: cee476b8 (big blind) folded before Flop
+Seat 4: e8bf5096 folded before Flop (didn't bet)
+Seat 5: f1a461d7 folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+Poker Hand #RC92433756: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:23:10
+Table 'RushAndCash6069' 6-max Seat #1 is the button
+Seat 1: 4c337cf2 ($25.23 in chips)
+Seat 2: 41f2e2c ($25 in chips)
+Seat 3: Hero ($64.27 in chips)
+Seat 4: 9aa38475 ($58.73 in chips)
+Seat 5: f1a461d7 ($33.61 in chips)
+Seat 6: 20adcccd ($35.96 in chips)
+41f2e2c: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 4c337cf2 
+Dealt to 41f2e2c 
+Dealt to Hero [Qd Qc]
+Dealt to 9aa38475 
+Dealt to f1a461d7 
+Dealt to 20adcccd 
+9aa38475: folds
+f1a461d7: folds
+20adcccd: folds
+4c337cf2: folds
+41f2e2c: raises $0.5 to $0.75
+Hero: raises $1.75 to $2.5
+41f2e2c: raises $5 to $7.5
+Hero: raises $56.77 to $64.27 and is all-in
+41f2e2c: calls $17.5 and is all-in
+Uncalled bet ($39.27) returned to Hero
+Hero: shows [Qd Qc]
+41f2e2c: shows [As Kc]
+*** FLOP *** [7s 3d 9d]
+*** TURN *** [7s 3d 9d] [5s]
+*** RIVER *** [7s 3d 9d 5s] [2h]
+*** SHOWDOWN ***
+Hero collected $50 from pot
+*** SUMMARY ***
+Total pot $50
+Board [7s 3d 9d 5s 2h]
+Seat 1: 4c337cf2 (button) folded before Flop (didn't bet)
+Seat 2: 41f2e2c (small blind) showed [As Kc] and lost with Ace-High
+Seat 3: Hero (big blind) showed [Qd Qc] and won ($50) with Pair of Queens
+Seat 4: 9aa38475 folded before Flop (didn't bet)
+Seat 5: f1a461d7 folded before Flop (didn't bet)
+Seat 6: 20adcccd folded before Flop (didn't bet)
+
+
+Poker Hand #RC92434367: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:24:45
+Table 'RushAndCash6135' 6-max Seat #1 is the button
+Seat 1: 81ce9558 ($25 in chips)
+Seat 2: 548e4b41 ($25 in chips)
+Seat 3: b9a49d77 ($56.79 in chips)
+Seat 4: 12ffc28a ($95.73 in chips)
+Seat 5: Hero ($88.27 in chips)
+Seat 6: 6f274c59 ($37.46 in chips)
+548e4b41: posts small blind $0.1
+b9a49d77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 81ce9558 
+Dealt to 548e4b41 
+Dealt to b9a49d77 
+Dealt to 12ffc28a 
+Dealt to Hero [3c 2s]
+Dealt to 6f274c59 
+12ffc28a: folds
+Hero: folds
+6f274c59: folds
+81ce9558: folds
+548e4b41: folds
+Uncalled bet ($0.15) returned to b9a49d77
+*** SHOWDOWN ***
+b9a49d77 collected $0.2 from pot
+*** SUMMARY ***
+Total pot $0.2
+Seat 1: 81ce9558 (button) folded before Flop (didn't bet)
+Seat 2: 548e4b41 (small blind) folded before Flop
+Seat 3: b9a49d77 (big blind) collected ($0.2)
+Seat 4: 12ffc28a folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: 6f274c59 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92434459: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:24:57
+Table 'RushAndCash6143' 6-max Seat #1 is the button
+Seat 1: 6c0f2d78 ($49.66 in chips)
+Seat 2: fcf1a3a6 ($54.84 in chips)
+Seat 3: cee476b8 ($24.26 in chips)
+Seat 4: e8bf5096 ($39.55 in chips)
+Seat 5: 64725a90 ($29.56 in chips)
+Seat 6: Hero ($88.27 in chips)
+fcf1a3a6: posts small blind $0.1
+cee476b8: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 6c0f2d78 
+Dealt to fcf1a3a6 
+Dealt to cee476b8 
+Dealt to e8bf5096 
+Dealt to 64725a90 
+Dealt to Hero [8d 6d]
+e8bf5096: raises $0.38 to $0.63
+64725a90: raises $1.27 to $1.9
+Hero: folds
+6c0f2d78: folds
+fcf1a3a6: folds
+cee476b8: folds
+e8bf5096: raises $3.27 to $5.17
+64725a90: folds
+Uncalled bet ($3.27) returned to e8bf5096
+*** SHOWDOWN ***
+e8bf5096 collected $4.15 from pot
+*** SUMMARY ***
+Total pot $4.15
+Seat 1: 6c0f2d78 (button) folded before Flop (didn't bet)
+Seat 2: fcf1a3a6 (small blind) folded before Flop
+Seat 3: cee476b8 (big blind) folded before Flop
+Seat 4: e8bf5096 collected ($4.15)
+Seat 5: 64725a90 folded before Flop
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+Poker Hand #RC92434505: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:25:03
+Table 'RushAndCash6147' 6-max Seat #1 is the button
+Seat 1: bc4be886 ($26.58 in chips)
+Seat 2: Hero ($88.27 in chips)
+Seat 3: a2daa5f3 ($28.97 in chips)
+Seat 4: e1a3e1e4 ($25 in chips)
+Seat 5: 81ce9558 ($25 in chips)
+Seat 6: c989b2a1 ($14.86 in chips)
+Hero: posts small blind $0.1
+a2daa5f3: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to bc4be886 
+Dealt to Hero [Jd 7d]
+Dealt to a2daa5f3 
+Dealt to e1a3e1e4 
+Dealt to 81ce9558 
+Dealt to c989b2a1 
+e1a3e1e4: folds
+81ce9558: raises $0.38 to $0.63
+c989b2a1: folds
+bc4be886: calls $0.63
+Hero: folds
+a2daa5f3: calls $0.38
+*** FLOP *** [Kh 6s 6d]
+a2daa5f3: checks
+81ce9558: bets $1
+bc4be886: folds
+a2daa5f3: folds
+Uncalled bet ($1) returned to 81ce9558
+*** SHOWDOWN ***
+81ce9558 collected $1.99 from pot
+*** SUMMARY ***
+Total pot $1.99
+Board [Kh 6s 6d]
+Seat 1: bc4be886 (button) folded on the Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: a2daa5f3 (big blind) folded on the Flop
+Seat 4: e1a3e1e4 folded before Flop (didn't bet)
+Seat 5: 81ce9558 won ($1.99)
+Seat 6: c989b2a1 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92434581: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:25:15
+Table 'RushAndCash6154' 6-max Seat #1 is the button
+Seat 1: 6c0f2d78 ($49.66 in chips)
+Seat 2: f262e92f ($25 in chips)
+Seat 3: Hero ($88.17 in chips)
+Seat 4: 42e8f4c0 ($25.25 in chips)
+Seat 5: c989b2a1 ($14.86 in chips)
+Seat 6: 1b498ea1 ($83.77 in chips)
+f262e92f: posts small blind $0.1
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to 6c0f2d78 
+Dealt to f262e92f 
+Dealt to Hero [Kd Jc]
+Dealt to 42e8f4c0 
+Dealt to c989b2a1 
+Dealt to 1b498ea1 
+42e8f4c0: folds
+c989b2a1: folds
+1b498ea1: folds
+6c0f2d78: raises $0.38 to $0.63
+f262e92f: folds
+Hero: calls $0.38
+*** FLOP *** [5d 2d 9s]
+Hero: checks
+6c0f2d78: checks
+*** TURN *** [5d 2d 9s] [Ad]
+Hero: checks
+6c0f2d78: checks
+*** RIVER *** [5d 2d 9s Ad] [Qs]
+Hero: checks
+6c0f2d78: checks
+Hero: shows [Jc Kd] (Ace-High)
+6c0f2d78: shows [4h Kh] (Ace-High)
+*** SHOWDOWN ***
+Hero collected $1.36 from pot
+*** SUMMARY ***
+Total pot $1.36
+Board [5d 2d 9s Ad Qs]
+Seat 1: 6c0f2d78 (button) showed [Kh 4h] and lost with Ace-High
+Seat 2: f262e92f (small blind) folded before Flop
+Seat 3: Hero (big blind) showed [Kd Jc] and won ($1.36) with Ace-High
+Seat 4: 42e8f4c0 folded before Flop (didn't bet)
+Seat 5: c989b2a1 folded before Flop (didn't bet)
+Seat 6: 1b498ea1 folded before Flop (didn't bet)
+
+
+Poker Hand #RC92434836: Hold'em No Limit ($0.1/$0.25) - 2020/04/02 10:25:53
+Table 'RushAndCash6180' 6-max Seat #1 is the button
+Seat 1: Hero ($88.84 in chips)
+Seat 2: 8a7c3bbc ($68.56 in chips)
+Seat 3: 6c0f2d78 ($49.03 in chips)
+Seat 4: 47a7e245 ($26.5 in chips)
+Seat 5: 3cbe3050 ($25 in chips)
+Seat 6: cea3ade1 ($68.51 in chips)
+8a7c3bbc: posts small blind $0.1
+6c0f2d78: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Ks 3c]
+Dealt to 8a7c3bbc 
+Dealt to 6c0f2d78 
+Dealt to 47a7e245 
+Dealt to 3cbe3050 
+Dealt to cea3ade1 
+47a7e245: folds
+3cbe3050: folds
+cea3ade1: raises $0.38 to $0.63
+Hero: folds
+8a7c3bbc: raises $1.87 to $2.5
+6c0f2d78: folds
+cea3ade1: folds
+Uncalled bet ($1.87) returned to 8a7c3bbc
+*** SHOWDOWN ***
+8a7c3bbc collected $1.51 from pot
+*** SUMMARY ***
+Total pot $1.51
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: 8a7c3bbc (small blind) collected ($1.51)
+Seat 3: 6c0f2d78 (big blind) folded before Flop
+Seat 4: 47a7e245 folded before Flop (didn't bet)
+Seat 5: 3cbe3050 folded before Flop (didn't bet)
+Seat 6: cea3ade1 folded before Flop
+
+
